@@ -1,0 +1,3704 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The lost lover, or, The jealous husband a comedy, as it is acted at the Theatre Royal by His Majesty's servants / written by Mrs. Manley.</title>
+            <author>Manley, Mrs. (Mary de la Rivière), 1663-1724.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 119 KB of XML-encoded text transcribed from 27 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51771</idno>
+            <idno type="STC">Wing M435</idno>
+            <idno type="STC">ESTC R7067</idno>
+            <idno type="EEBO-CITATION">11967475</idno>
+            <idno type="OCLC">ocm 11967475</idno>
+            <idno type="VID">51767</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51771)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 51767)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 36:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The lost lover, or, The jealous husband a comedy, as it is acted at the Theatre Royal by His Majesty's servants / written by Mrs. Manley.</title>
+                  <author>Manley, Mrs. (Mary de la Rivière), 1663-1724.</author>
+               </titleStmt>
+               <extent>[10], 39 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Bently ... F. Saunders ... J. Knapton, and R. Wellington ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1696.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="half_title">
+            <pb facs="tcp:51767:1"/>
+            <pb facs="tcp:51767:1" rendition="simple:additions"/>
+            <p>THE LOST LOVER; OR, THE <hi>Iealous Husband.</hi>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:51767:2"/>
+            <pb facs="tcp:51767:2"/>
+            <p>THE LOST LOVER; OR, THE <hi>Iealous Husband:</hi> A COMEDY.</p>
+            <p>As it is Acted at the <hi>THEATRE ROYAL</hi> BY His MAJESTY's
+Servants.</p>
+            <p>Written by Mrs. <hi>Manley.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>R. Bently,</hi> in
+<hi>Covent-Garden; F. Saunders,</hi> in the <hi>New-Exchange; J. Knapton,</hi>
+and <hi>R. Wellington,</hi> in St. <hi>Paul</hi>'s Church-Yard. MDCXCVI.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:51767:3"/>
+            <pb facs="tcp:51767:3"/>
+            <head>THE PREFACE.</head>
+            <p>THis Comedy by the little ſucceſs it met with in the Acting,
+has not at all de<g ref="char:EOLhyphen"/>ceived my Expectations; I had ever ſo great a Diſtruſt,
+and ſo impartial an Opinion, that nothing but the flattery of my Friends (and
+them, one wou'd imagine, Men of too much Senſe to be ſo grosſly
+miſtaken, and without whoſe perſwaſion I never deſigned pub<g ref="char:EOLhyphen"/>liſhing
+of it) cou'd in the leaſt have held me in ſuſpence of its good or evil
+Fortune: and to con<g ref="char:EOLhyphen"/>feſs my Faults, I own it an unpardonable one, to
+expoſe, after two years reflection, the Follies of ſeven days, (for barely
+in that time this Play was wrought) and my ſelf ſo great a Stranger to the
+Stage, that I had lived buried in the Countrey, and in the ſix foregoing
+years, had actually been but twice at the Houſe. The better half was 
+<pb facs="tcp:51767:4"/>cut; They ſay, 'thas ſuffered by it, tho' they told me, 'twas
+poſſible to have too much of a good thing, but I think never too little of
+an ill.</p>
+            <p>That knowledge I had of the Town was the gentile part, which does
+not always afford Di<g ref="char:EOLhyphen"/>verting Characters; My deſign in Writing was only to
+paſs ſome tedious Country hours, not imagining I ſhould be ſo
+ſeverely repay'd. I now know my Faults, and will promiſe to mend them by
+the ſureſt way, not attempting to repeat them.</p>
+            <p>I am now convinc'd Writing for the Stage is no way proper for a
+Woman, to whom all Advantages but meer Nature, are refuſed; If we happen to
+have a Genius to Poetry, it preſently ſhoots to a fond deſire of
+Imitation. Tho' to be lamely ridiculous, mine was indulged by my Flatterers,
+who ſaid, nothing cou'd come from me unentertaining: like a Hero not
+contented with Applauſe from leſſer Conqueſts, I find my ſelf not
+only diſap<g ref="char:EOLhyphen"/>pointed of my hopes of greater, but even to have loſt all the
+glory of the former; Had I confin'd my Senſe, as before, to ſome ſhort
+Song of <hi>Phillis,</hi> a Tender Billet, and the freedom of agreeable
+Converſation, I had ſtill preſerved the Character of a Witty Woman.</p>
+            <pb facs="tcp:51767:4"/>
+            <p>Give me leave to thank the Well-natur'd Town for Damning me ſo
+ſuddenly; They would not ſuffer me to linger in ſuſpence, nor allow me
+any degrees of Mortification; neither my Sex, Dreſs, Muſick and Dancing,
+cou'd allow it a three Days Reprieve, nor the Modeſty of the Play it ſelf,
+prevail with the Ladies to Eſpouſe it: Here I ſhould moſt juſtly
+reproach my ſelf, if I did not make all due Acknowledg<g ref="char:EOLhyphen"/>ments for Sir
+<hi>Thomas Skipwith</hi>'s Civility, his Na<g ref="char:EOLhyphen"/>tive Generoſity, and Gallantry of
+Temper, took care nothing on his part ſhou'd be wanting to make it
+pleaſing.</p>
+            <p>Once more, my Offended Judges, I am to appear before you, once
+more in poſſibility of giving you the like Damning Satisfaction; there is a
+Tragedy of mine Rehearſing, which 'tis too late to recall, I conſent it
+meet with the ſame Fortune: 'Twill for ever rid me of a Vanity too Natural to
+our Sex, and make me ſay with a Grecian Hero, <hi>I had been loſt, if I had
+not been loſt.</hi>
+            </p>
+            <p>They Object the Verſes wrote by me before <hi>Agnes de
+Caſtro,</hi> where, with Poetick Vanity I ſeemed to think my ſelf a
+Champion for our Sex; ſome of my Witty Critticks make a Jeſt of my proving
+ſo favourable an Enemy, but let me tell them, this was not deſign'd a
+Conſe<g ref="char:EOLhyphen"/>quence of that Challenge, being writ two years <pb facs="tcp:51767:5"/>before, and
+cannot have a ſmaller Share in their Eſteem than mine: After all, I think
+my Treat<g ref="char:EOLhyphen"/>ment much ſeverer than I deſerved; I am ſa<g ref="char:EOLhyphen"/>tisfied the bare Name
+of being a Woman's Play damn'd it beyond its own want of Me<g ref="char:EOLhyphen"/>rit: I will
+conclude with <hi>Dionyſius,</hi> 
+               <q rend="margQuotes">That <hi>Plato</hi> and Philoſophy have
+taught me to bear ſo great a Loſs (even of Fame) with Patience.</q>
+            </p>
+         </div>
+         <div type="prologue">
+            <pb facs="tcp:51767:5"/>
+            <head>PROLOGUE,</head>
+            <byline>Spoken by Mr. <hi>Horden.</hi>
+            </byline>
+            <lg>
+               <l>THe firſt Adventurer for her fame I ſtand,</l>
+               <l>The Curtain's drawn now by a Lady's Hand,</l>
+               <l>The very Name you'l cry boads Impotence,</l>
+               <l>To Fringe and Tea they ſhou'd confine their Sence,</l>
+               <l>And not outſtrip the bounds of Providence.</l>
+               <l>I hope then Criticks, ſince the Caſe is ſo,</l>
+               <l>You'l ſcorn to Arm againſt a Worthleſs Foe,</l>
+               <l>But curb your ſpleen and gall, and trial make,</l>
+               <l>How our fair Warriour gives her firſt Attack.</l>
+            </lg>
+            <lg>
+               <l>Now all ye chattering Inſects ſtraight be dumb,</l>
+               <l>The Men of Wit and Senſe are hither come,</l>
+               <l>Ask not this Mask to Sup, nor that to ſhow</l>
+               <l>Some Face more ugly than a Fifty Beau,</l>
+               <l>Who, if our Play ſucceeds, will ſurely ſay,</l>
+               <l>Some private Lover helpt her on her way,</l>
+               <l>As Female Wit were barren like the Moon,</l>
+               <l>That borrows all her influence from the Sun.</l>
+            </lg>
+            <lg>
+               <l>The Sparks and Beaus will ſurely prove our Friends,</l>
+               <l>For their good Breeding muſt make them commend</l>
+               <l>What Billet Deux ſo e're a Lady ſends.</l>
+               <l>She knew old Thread-bare Topicks would not do,</l>
+               <l>But Beaus a Species thinks it ſelf ſtill new,</l>
+               <l>And therefore ſhe reſolved to Coppy you.</l>
+            </lg>
+         </div>
+         <div type="epilogue">
+            <pb facs="tcp:51767:6"/>
+            <head>EPILOGE,</head>
+            <byline>Spoken by Miſs <hi>Croſs.</hi>
+            </byline>
+            <lg>
+               <l>KInd hearted City Wives, if any here,</l>
+               <l>Was not <hi>Oliva</hi>'s Virtue too ſevere,</l>
+               <l>To baulk your Expectation at that time,</l>
+               <l>Kind tender Citts wou'd be a Mortal Crime;</l>
+               <l>Our Gallants were undone, ſhou'd you but prove</l>
+               <l>Her Apes in Virue, as you'r theirs in Love.</l>
+            </lg>
+            <lg>
+               <l>But for our Poeteſs— Lard, no Virgin ever</l>
+               <l>Reſigned ſo baſhfully her darling Treaſure,</l>
+               <l>She ſweats and reddens, then turns pale for fear,</l>
+               <l>See what diſorders you can give the Fair;</l>
+               <l>Shou'd I ask ne're ſo much to make you kind,</l>
+               <l>You'd damn or pitty as ye are inclin'd,</l>
+               <l>Tho' each in private wou'd be ſworn her Lover,</l>
+               <l>Scarce one true Friend the Publick will diſcover.</l>
+            </lg>
+            <lg>
+               <l>Our Beau was writ at leaſt two years ago,</l>
+               <l>See how rank Weeds in Foppiſh Countreys grow,</l>
+               <l>Now ſo Diminutive a Spark, alaſs,</l>
+               <l>He ſcarce can ſerve to ſhew you what he was;</l>
+               <l>Shou'd the next two increaſe as theſe have done,</l>
+               <l>The Babel Beau might hope to touch the Sun.</l>
+            </lg>
+            <lg>
+               <l>Did but ſound Senſe and Reaſon thrive as faſt,</l>
+               <l>The Coming Age might profit by the paſt.</l>
+            </lg>
+         </div>
+         <div type="dramatis_personae">
+            <pb facs="tcp:51767:6"/>
+            <head>Perſons Repreſented.</head>
+            <list>
+               <item>
+                  <label>Sir <hi>Ruſtick Good-Heart,</hi> an Ill-bred Country
+Gen<g ref="char:EOLhyphen"/>tleman,</label> Mr. <hi>Johnſon.</hi>
+               </item>
+               <item>
+                  <label>
+                     <hi>Wilmore,</hi> his Son,</label> Mr.
+<hi>Verbrugen.</hi>
+               </item>
+               <item>
+                  <label>
+                     <hi>Wildman,</hi> his Friend,</label> Mr.
+<hi>Horden.</hi>
+               </item>
+               <item>
+                  <label>Sir <hi>Amorous Courtall,</hi>
+                  </label> Mr.
+<hi>Powell.</hi>
+               </item>
+               <item>
+                  <label>
+                     <hi>Smyrna,</hi> a Turkey-Merchant,</label> Mr.
+<hi>Cibber.</hi>
+               </item>
+               <item>
+                  <label>
+                     <hi>Pulſe,</hi> a Phyſitian,</label> M.
+<hi>Penkethman.</hi>
+               </item>
+               <item>
+                  <label>
+                     <hi>Knowlittle,</hi> a Fortune-teller,</label> Mr.
+<hi>Haynes.</hi>
+               </item>
+               <item>
+                  <hi>Timothy,</hi> his Man,</item>
+               <item>
+                  <hi>Ready,</hi> Servant to <hi>Wildman,</hi>
+               </item>
+            </list>
+            <pb facs="tcp:51767:7"/>
+            <list>
+               <head>WOMEN.</head>
+               <item>
+                  <label>Lady <hi>Young-Love,</hi> an Old Vain Conceited
+Lady,</label> Mrs. <hi>Kent.</hi>
+               </item>
+               <item>
+                  <label>
+                     <hi>Marina,</hi> her Daughter,</label> Mrs.
+<hi>Rogers.</hi>
+               </item>
+               <item>
+                  <label>
+                     <hi>Belira,</hi> Secret Miſtreſs to
+<hi>Wilmore,</hi>
+                  </label> Mrs. <hi>Knight.</hi>
+               </item>
+               <item>
+                  <label>
+                     <hi>Orinda,</hi> an Affected Poeteſs,</label> Mrs,
+<hi>Cibber.</hi>
+               </item>
+               <item>
+                  <label>
+                     <hi>Olivia, Smyrna</hi>'s Wife,</label> Mrs.
+<hi>Verbrugen.</hi>
+               </item>
+               <item>
+                  <label>
+                     <hi>Iſabella,</hi> Woman to Lady
+<hi>Young-Love,</hi>
+                  </label> Mrs. <hi>Cole.</hi>
+               </item>
+               <item>
+                  <label>
+                     <hi>Phaebe, Olivia</hi>'s Maid,</label> Mrs.
+<hi>Mills.</hi>
+               </item>
+               <item>Page.</item>
+               <item>Servants.</item>
+            </list>
+            <p>SCENE in <hi>London.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="play">
+            <pb n="1" facs="tcp:51767:7"/>
+            <head>THE Loſt Lover, &amp;c.</head>
+            <div n="1" type="act">
+               <head>ACT I.</head>
+               <div n="1" type="scene">
+                  <head>SCENE I. <hi>The Lady</hi> Young-Love's
+<hi>Houſe.</hi>
+                  </head>
+                  <stage>
+                     <hi>Enter</hi> Wildman <hi>and</hi> Ready.</stage>
+                  <sp>
+                     <speaker>Wild.</speaker>
+                     <p>I'll ſtay here till Mr. <hi>Wilmore</hi> comes in; do you
+go and ſee what's to be done at Old <hi>Smyrna</hi>'s; Deliver this Letter to
+Mrs. <hi>Phebe,</hi> for her Lady: <hi>Ready,</hi> thou doſt not want
+Argu<g ref="char:EOLhyphen"/>ments to corrupt a Waiting Woman's Fidelity, all the diffi<g ref="char:EOLhyphen"/>culty lies in
+<hi>Olivia</hi>'s nicety, but I ſhould have reaſon to have an ill Opi<g ref="char:EOLhyphen"/>nion
+of my ſelf if I don't prevail, when I've a Friend in her Boſom that
+ſpeaks for me, and only an old jealous Husband to oppoſe me.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ready.</speaker>
+                     <p>Mrs. <hi>Phebe</hi> ſays Madam <hi>Olivia</hi> has the
+ſame kindneſs for you as before ſhe was Married; but her Husband is ſo
+Jealous of her, he won't ſuffer her out of his ſight Day nor Night.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wild</speaker>
+                     <p>Poor <hi>Olivia;</hi> Thy Beauty nor Merit cou'd not make
+thee happy, ſince Fortune was wanting in her favours: Thy Father buried thee
+in a Rich Old Merchant's arms, and 'tis my part to try to revive thee in
+mine.</p>
+                  </sp>
+                  <stage>Exeunt ſeverally.</stage>
+                  <pb n="2" facs="tcp:51767:8"/>
+                  <stage>
+                     <hi>Enter</hi> Marina, <hi>and</hi> Belira, Marina <hi>in
+a Travailing Dreſs.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Bel.</speaker>
+                     <p>Without repeating further Welcome to you: My Dear
+<hi>Marina,</hi> How have you ſpent your time in the Country?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mar.</speaker>
+                     <p>'Twas rough caſt, and hung heavily upon every Spoke;
+nei<g ref="char:EOLhyphen"/>ther Park, Play, nor Baſſet-Table, to call rugged Time along;
+ſome<g ref="char:EOLhyphen"/>times indeed, when disburthen'd <hi>London,</hi> wanted new Air and
+Com<g ref="char:EOLhyphen"/>plection for her Female inhabitants, I had the Diverſion of ſeeing how
+well they could reliſh Country Sparks, after being cloyd with Town Beaux.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Bel.</speaker>
+                     <p>Nature is no Idler; the Fruitful Dame loves Employment; but
+pray what cou'd ſhe find out in your part of the World, for nice,
+well-dreſs'd diſtinguiſhing Town-Ladies.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mar.</speaker>
+                     <p>The thing with all the World, is being pleas'd, not who
+pleaſes; my pretty young Lady <hi>Made,</hi> her Lord leaving her in a
+Bar<g ref="char:EOLhyphen"/>ren, wild unfurniſh'd World of Sparks, caſt her Eyes upon ſo near a
+Relation of his, that ſhe miſtook the Weſt Country for <hi>Flanders;</hi>
+when undiſtinguiſhing Night had reduc'd the Senſe of Seeing, into that of
+Touching.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Bel.</speaker>
+                     <p>Doubtleſs ſome believe it a Satisfaction, to prove the
+Difference between Town-Art, and Country-Nature; but how does Mrs.
+<hi>Con<g ref="char:EOLhyphen"/>ceit.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Mar.</speaker>
+                     <p>I ſent a handſome Footman of mine, to make her a
+Compli<g ref="char:EOLhyphen"/>ment, and ſhe interrupted him in the midſt, to tell him he had a
+Pretty Mouth, which cou'd be better employ'd, than in delivering his La<g ref="char:EOLhyphen"/>dies
+Meſſage.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Bel.</speaker>
+                     <p>But what of that Ill natur'd, Falſe, pretended piece of
+Virtue, my Lord <hi>Rural</hi>'s ſecond Daughter.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mar.</speaker>
+                     <p>Married, long ſince; found a Fool to uphold her ill
+Nature, in railing at Mankind, and cloak her Pleaſure in uſing them.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Bel.</speaker>
+                     <p>She did my Brother the Honour of taking that fooliſh Toy a
+Maiden head from him; he courted her for a Wife, and ſhe wantonly ask'd him,
+if they cou'd not love without Marrying.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mar.</speaker>
+                     <p>Since that, ſhe granted her favours in an open Calaſh,
+whilſt her Husband drove it.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Bel.</speaker>
+                     <p>'Twas the boldeſt braveſt Lover I ever heard of.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mar.</speaker>
+                     <p>The Glory is due to her; for when he objected her Husband,
+ſhe ſaid his back had been turned a thouſand Minutes, and 'twas hard if
+Fortune wou'd not take care ſecurely to allow her one of them.</p>
+                  </sp>
+                  <pb n="3" facs="tcp:51767:8"/>
+                  <sp>
+                     <speaker>Bel.</speaker>
+                     <p>Yet none pretends more to Virtue, nor will ſooner ſwear
+her Neighbours wants in Uncharitableneſs to others; and count it as a
+cer<g ref="char:EOLhyphen"/>tain <gap reason="illegible" resp="#OXF" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> of Defect in our
+ſelves.</p>
+                  </sp>
+                  <sp>
+                     <speaker>
+                        <gap reason="illegible" resp="#OXF" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>
+                     </speaker>
+                     <p>
+                        <gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ut all
+this time I forget; where's my Mother.</p>
+                  </sp>
+                  <sp>
+                     <speaker>
+                        <gap reason="illegible" resp="#OXF" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>
+                     </speaker>
+                     <p>
+                        <gap reason="illegible" resp="#OXF" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> to an
+Indian-Houſe with young <hi>Wilmore,</hi> her Spouſe that
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> for new Furniture, ſhe
+means every thing <gap reason="illegible" resp="#OXF" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> Gay and
+I<gap reason="illegible" resp="#OXF" extent="4 letters">
+                           <desc>••••</desc>
+                        </gap>ng as her Lover.</p>
+                  </sp>
+                  <sp>
+                     <speaker>
+                        <gap reason="illegible" resp="#OXF" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>
+                     </speaker>
+                     <p>
+                        <gap reason="illegible" resp="#OXF" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> it enter
+into a Womans head of fifty, to look back
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>
+                        <gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ellow of Twenty, whoſe
+firſt contrivance will be how to ge<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 
+                        <gap reason="illegible" resp="#OXF" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>, her Money
+excepted, and that once ſecur'd ſhe may
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>, what ſeparate maintainance
+he is pleas'd to allow her, and he contented to ſtarve all her life after,
+for having once made too la<gap reason="illegible" resp="#OXF" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>e a <gap reason="illegible" resp="#OXF" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>aſt.</p>
+                  </sp>
+                  <sp>
+                     <speaker>
+                        <gap reason="illegible" resp="#OXF" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>
+                     </speaker>
+                     <p>If I miſtake not, ſhe intrudes a little upon your right;
+you have not <gap reason="illegible" resp="#OXF" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> all your
+inclination for Mr. <hi>Wilmore.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Mar.</speaker>
+                     <p>They indeed prepare me towards making him a very Obedient
+Dutiful Daughter-in-Law.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Bel.</speaker>
+                     <p>Well, We'll ſpare your Modeſty a farther Confeſſion,
+and let you know to morrow is the Wedding day; but there's a Misfortune untold
+to you, nor cou'd your imagination gueſs at it, Sir <hi>Ruſtick
+Goodheart</hi> has got my Lady <hi>Young Loves</hi> conſent for Marrying
+you.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mor.</speaker>
+                     <p>I ſee abſence has not made my Mother better natur'd; but
+i<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> ſhe plays the Fool, I
+ſhall be wiſer than to imitate her; beſides, mine wou'd be ſo much
+worſe, as an Old Man is always leſs inviting than a Young.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Bel.</speaker>
+                     <p>Mr. <hi>Wilmore</hi> has ſhew'd himſelf ſo generous,
+that till you were ſent for he refuſed to Marry your Mother, and then too
+but conditio<g ref="char:EOLhyphen"/>nally ſhe ſhould ſecure your Fortune to your ſelf.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mar.</speaker>
+                     <p>'Tis ſurpriſing in a Father-in-Law; but is he in Love
+with her, (for I can wonder at nothing) or the Match impoſed by his Father,
+for his Age ſcarce allows him to know the Value of Money enough to part with
+his darling Liberty for it.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Bel.</speaker>
+                     <p>She has made advances to him beyond belief; his good
+breed<g ref="char:EOLhyphen"/>ing received them Civily; whereupon ſhe has forgot nothing that cou'd
+make her leſs Ugly, though Age did not fail to o'er-top it all; Nature here
+was ſo unkind a Miſtreſs, as to prevail in ſpight of Art.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mar.</speaker>
+                     <p>I ſhou'd never have gueſs'd other; for when we are once
+ar<g ref="char:EOLhyphen"/>rived to a certain Point of time, we may e'en lay aſide Pig-water, Patches
+and Curls, and be contented with leſs Admiration, ſo we meet but with more
+Eſteem; but if he loves her not, what can provoke him to Marry her.</p>
+                  </sp>
+                  <pb n="4" facs="tcp:51767:9"/>
+                  <sp>
+                     <speaker>Bel.</speaker>
+                     <p>Gratitude and a Neceſſitous Fortune; beſides, ſhe
+has almoſt pucrhaſed him with rich preſents, which has more Eloquence in
+them than all the Old Womens Tongues in <hi>England.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Mar.</speaker>
+                     <p>Preſents! Sure you forget your ſelf.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Bel.</speaker>
+                     <p>I know what I ſay; beſides, where have you liv'd not to
+know, Money ſpeaks for an Old Woman, when her Eyes no longer can: But to
+entertain you till my Lady <hi>Young-Love</hi> comes in, my Page ſhall ſing
+you the laſt new Song.</p>
+                  </sp>
+                  <q>
+                     <floatingText xml:lang="eng">
+                        <body>
+                           <div type="song">
+                              <head>SONG.</head>
+                              <lg>
+                                 <l>
+                                    <hi>AH Dangerous Swains, tell me no more,</hi>
+                                 </l>
+                                 <l>
+                                    <hi>Thy Happy Nymph you Worſhip and
+Adore;</hi>
+                                 </l>
+                                 <l>
+                                    <hi>When thy fill'd Eyes are ſparkling at her
+Name,</hi>
+                                 </l>
+                                 <l>
+                                    <hi>I raving wiſh that mine had caus'd the
+Flame.</hi>
+                                 </l>
+                              </lg>
+                              <lg>
+                                 <l>
+                                    <hi>If by your fire to her you can impart</hi>
+                                 </l>
+                                 <l>
+                                    <hi>Diffuſive heat to warm another's
+heart:</hi>
+                                 </l>
+                                 <l>
+                                    <hi>Ah dangerous Swain, what wou'd the ruine
+be,</hi>
+                                 </l>
+                                 <l>
+                                    <hi>Shou'd you but once perſuade you burn for
+me.</hi>
+                                 </l>
+                              </lg>
+                              <stage>
+                                 <hi>Enter Lady</hi> Young Love, Wilmore.</stage>
+                           </div>
+                        </body>
+                     </floatingText>
+                  </q>
+                  <sp>
+                     <speaker>Lady <hi>Young.</hi>
+                     </speaker>
+                     <p>Bid the Coach ſet up, and let the things be brought in
+here My Daughter come! God bleſs you!</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mor.</speaker>
+                     <p>I am o'er joy'd to ſee your Ladiſhip, and to ſee you
+look ſo well.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wil.</speaker>
+                     <p>Your Ladiſhips moſt humble Servant.</p>
+                     <stage>Salutes her.</stage>
+                  </sp>
+                  <sp>
+                     <speaker>Lady <hi>Young.</hi>
+                     </speaker>
+                     <p>
+                        <hi>Belira,</hi> How do you like theſe figur'd Velvets;
+this I deſign for the Bed and Hangings; this Violet colour ſuits agreeably
+with this Buff.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Bel.</speaker>
+                     <p>Moſt extreamly well, Madam; does your Ladiſhip deſign
+a Mixture?</p>
+                  </sp>
+                  <pb n="5" facs="tcp:51767:9"/>
+                  <sp>
+                     <speaker>L. <hi>Young.</hi>
+                     </speaker>
+                     <p>I had thoughts of Paining and Bordering it with this
+Crimſon and Green; but that ſort of Furniture has been my averſion, ever
+ſince I ſaw my odious Lady <hi>Junkers</hi> Appartment ſet forth with
+Scotch Plad and Damask.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Bel. aſide.]</speaker>
+                     <p>Confuſion! How his Eyes are fix'd on her, as if his Soul
+received her Charms, and wanted pow'r to hide it!</p>
+                  </sp>
+                  <sp>
+                     <speaker>L. <hi>Young.</hi>
+                     </speaker>
+                     <p>I don't look well to day, Mr. <hi>Wilmore.</hi>
+                     </p>
+                     <stage>Looks in her Glaſs.</stage>
+                  </sp>
+                  <sp>
+                     <speaker>Wil.</speaker>
+                     <p>Your Ladiſhip can never look other.</p>
+                  </sp>
+                  <sp>
+                     <speaker>L. <hi>Young.</hi>
+                     </speaker>
+                     <p>
+                        <hi>Belira,</hi> thou won't flatter me; I have not red
+enough have I?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mar. aſide.]</speaker>
+                     <p>But from the Eyes to the Chin, and looks like the Raddle
+upon a Sheep's Back.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Bel.</speaker>
+                     <p>Your Ladiſhip is miſtaken, I never ſaw you look
+better; there's a Curl indeed out of order with the motion of the Coach; Hold,
+incline your Head: So, very well, that Pink-colour'd Ri<g ref="char:EOLhyphen"/>band ſuits agreeably
+with your Complexion.</p>
+                  </sp>
+                  <sp>
+                     <speaker>L. <hi>Young.</hi>
+                     </speaker>
+                     <p>But do you really think, Mr. <hi>Wilmore,</hi> I look ſo
+well to Day.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mar.</speaker>
+                     <p>He has reaſon to hope, Madam, that your Ladiſhip may
+look better to morrow Night.</p>
+                  </sp>
+                  <sp>
+                     <speaker>L. <hi>Young.</hi>
+                     </speaker>
+                     <p>Have you catch'd hold of that report, who made you ſo
+wiſe?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mar.</speaker>
+                     <p>Him that is to make your Ladiſhip ſo happy.</p>
+                  </sp>
+                  <sp>
+                     <speaker>L. <hi>Young.</hi>
+                     </speaker>
+                     <p>Indeed, indeed, Mr. <hi>Wilmore,</hi> it derogates from you
+to talk with Girls. When I had a Mother, I durſt never think of approaching
+her without Fear and Trembling. Now a Young thing as ſoon as ever ſhe has
+bid farewell to Bibs and Aprons, is ready for a Love, and thinks her ſelf
+with Noiſe and Impudence, better to be liked, than her Mother with all her
+Experience.</p>
+                  </sp>
+                  <stage>Enter Page.</stage>
+                  <sp>
+                     <speaker>Page.</speaker>
+                     <p>Sir <hi>Ruſtick Goodheart</hi> deſires to know if your
+Ladiſhip be at leiſure.</p>
+                  </sp>
+                  <sp>
+                     <speaker>L. <hi>Young.</hi>
+                     </speaker>
+                     <p>Always to him; I ſhall be glad of his Company Daughter, I
+have taken that care of your Fortune, as deceives not the Truſt my late Lord
+repoſed in me, Sir <hi>Ruſtick Good hear:</hi> and I, have agreed upon your
+Marriage; my Authority ſecures your Conſent.</p>
+                  </sp>
+                  <pb n="6" facs="tcp:51767:10"/>
+                  <sp>
+                     <speaker>Mar.</speaker>
+                     <p>Marriage, Madam, is a thing I have not thought on, y<gap reason="illegible" resp="#OXF" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> 'tis a Journey for Life, and
+that once conſider'd, we ought to do every thing to make it as eaſie to us
+as poſſible.</p>
+                  </sp>
+                  <stage>
+                     <hi>Enter Sir</hi> Ruſtick Good Heart, Wildman.</stage>
+                  <sp>
+                     <speaker>L. <hi>Young.</hi>
+                     </speaker>
+                     <p>Sir <hi>Ruſtick.</hi> your Servant; where have you been
+ſince dinner?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir <hi>Ruſtick.</hi>
+                     </speaker>
+                     <p>Be Dad, taking a Glaſs to this pretty Lady's health, Madam
+your Servant.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wild.</speaker>
+                     <p>Your moſt humble Servant.</p>
+                     <stage>[They ſalute her.</stage>
+                  </sp>
+                  <sp>
+                     <speaker>Wilmore,</speaker>
+                     <p>a very pretty Lady.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wil.</speaker>
+                     <p>I cou'd think ſo to, if 'twere not of the lateſt.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir <hi>Ruſtick.</hi>
+                     </speaker>
+                     <p>Give me thy Hand ſweet heart, thou'rt welcome to Town, be
+Dad with all my heart.</p>
+                  </sp>
+                  <sp>
+                     <speaker>L. <hi>Young.</hi>
+                     </speaker>
+                     <p>What think you of a Walk in the Garden; the Lovers are
+engag'd, and we wou'd leave them together.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wil.</speaker>
+                     <p>We wait upon you.</p>
+                     <stage>[<hi>Manet</hi> Sir Ruſtick <hi>and</hi> Mar</stage>
+                  </sp>
+                  <sp>
+                     <speaker>Sir <hi>Ruſtick.</hi>
+                     </speaker>
+                     <p>Which doſt thou like beſt, my dear, the Town, or
+Country.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mar.</speaker>
+                     <p>The Town, Sir, beyond Compariſon, all good Judges are of
+my Opinion, I hope you are one of them.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir <hi>Ruſtick.</hi>
+                     </speaker>
+                     <p>Before George not I, yet if it had not been for me you had
+been there ſtill; I perſuaded my Lady to ſend for you up, and have
+provided a Husband for thee, Girl, what ſay'ſt thou to a Husband,
+heigh.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mar.</speaker>
+                     <p>'Tis a ſort of Creature, has not yet fallen under my
+Conſide<g ref="char:EOLhyphen"/>ration.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir <hi>Ruſtick.</hi>
+                     </speaker>
+                     <p>All in good time, Child; I like thee ne'er the worſe for
+that. You don't look like the forward things of the Town, that Marries a Man
+only to Cuckold him, Ods bobs thou wilt not do that, I hope, Child.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mar.</speaker>
+                     <p>I don't underſtand you, Sir.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir <hi>Ruſtick.</hi>
+                     </speaker>
+                     <p>Come, we will be better acquainted, and then thou ſhale
+underſtand me, heigh: to ſay truth, the way of making Cuckolds is ſoon
+underſtood.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mar.</speaker>
+                     <p>Pray, Sir, at once forgive, and ſatisfie my curioſity;
+have you ſpent your time moſtly in the Town or Country.</p>
+                  </sp>
+                  <pb n="7" facs="tcp:51767:10"/>
+                  <sp>
+                     <speaker>Sir <hi>Ruſtick.</hi>
+                     </speaker>
+                     <p>Be dad, Child, the Country; I never came to <hi>London</hi>
+but in times of Parliament, which thank Heaven were not very frequent in our
+late Reigns; do I look Wine your Sickly <hi>Lon<g ref="char:EOLhyphen"/>doners,</hi> the dregs of
+nothing but Pox and Wine, Hemh, — Hemb, — ſhew me any young
+Fellow of them all, that can match me in Health and Vigour; neither Stone, nor
+Gout, nor the re<g ref="char:EOLhyphen"/>licts of any Diſtemper, but love of thee, Child.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mar.</speaker>
+                     <p>Love of me, ſure you miſtake your ſelf, one wou'd have
+imagin'd it, any other under the Sun at your Age.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir <hi>Ruſtick.</hi>
+                     </speaker>
+                     <p>Why there, be-dad you'r out, there's none Lovers but us old
+Fellows, the Young ones don't think it worth their time; ſhew me ſuch
+another as Old Sir <hi>Fair-Love Fondling;</hi> why Child he does nothing but
+look Babies in her Eyes all day, but bedad I believe he ſees but in
+Imagination, unleſs he borrows the aſſiſtance of Spectacles: He ſets
+her, before George, in a great Chair in the very middle of a Chamber, and
+himſelf for hours together at her Feet, upon a Foot-ſtool, in admiration of
+her; there's encouragement now.</p>
+                  </sp>
+                  <stage>
+                     <hi>Enter</hi> Belira.</stage>
+                  <sp>
+                     <speaker>Bel.</speaker>
+                     <p>My Lady <hi>Young-Love</hi> and her Counſel are in the
+Parlor, Sir, looking over the Writings, ſhe deſires your Company.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir <hi>Ruſtick.</hi>
+                     </speaker>
+                     <p>I come, I come; Sweet Miſtriſs your Servant, till I
+ſee thee again.</p>
+                  </sp>
+                  <stage>[<hi>Exit</hi> Sir <hi>Ruſtick.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Bel.</speaker>
+                     <p>I came <hi>Marina</hi> to your deliverance, I imagin'd how
+you were teiz'd.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mar.</speaker>
+                     <p>O hideous! <hi>Belira,</hi> did I think in Nature, there had
+been ſuch an ill bred, awkard thing; why he's ſo great a Mouſter
+al<g ref="char:EOLhyphen"/>ready, Horns can't make him worſe.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Bel.</speaker>
+                     <p>And yet my Lady <hi>Young-Love</hi> ſays you muſt Marry
+him.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mar.</speaker>
+                     <p>What with twelve thouſand Pound, a great deal of Youth, no
+contemptible ſtock of Beauty, beſides an untainted Re<g ref="char:EOLhyphen"/>putation, that
+out-weighs them all; believe me, <hi>Belirs,</hi> I'm not ſo far ignorant of
+my own worth, to bury it in him.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Bel.</speaker>
+                     <p>I wiſh you don't ruine your ſelf by the Refuſal.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mar.</speaker>
+                     <p>That Marriage is the greateſt, and you muſt uſe all
+your Intereſt with my Mother to prevent it; or reſolve to make me the
+moſt unhappy Creature breathing.</p>
+                  </sp>
+                  <pb n="8" facs="tcp:51767:11"/>
+                  <sp>
+                     <speaker>Bel.</speaker>
+                     <p>All aids that are in my power you may command: But has not
+your Journey tir'd you, you will not be for the Park this Evening.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mar.</speaker>
+                     <p>The Name has unweary'd me; I'll but change my Cloahts and be
+ready for you.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Bel.</speaker>
+                     <p>My Lady <hi>Young-Lous</hi> has tir'd poor <hi>Wilmore;</hi>
+he has left her to her Bonds and Conveyances, and is gone to the Park be<g ref="char:EOLhyphen"/>fore;
+wou'd not you wiſh to meet him there?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mar.</speaker>
+                     <p>Why thy queſtion? He is my Mothers, and never can be mine;
+but we trifle: will you favour me with your Company, whilſt I am
+Dreffing?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Bel.</speaker>
+                     <p>I'll follow you.</p>
+                     <stage>[<hi>Exit</hi> Marina.</stage>
+                     <p>Yes, <hi>Marina,</hi> my Intereſt pulls too ſtrong
+againſt you, to leave you a Moment to your ſelf till I have put it out of
+Fortunes power to injure me,</p>
+                     <lg>
+                        <l>Who truſts the fawning Jilt, muſt firſt believe,</l>
+                        <l>I truſt her not, and cannot be deceiv'd.</l>
+                     </lg>
+                  </sp>
+                  <stage>[Exit Omnes.</stage>
+               </div>
+            </div>
+            <div n="2" type="act">
+               <pb n="9" facs="tcp:51767:11"/>
+               <head>ACT II.</head>
+               <div n="1" type="scene">
+                  <head>SCENE I. <hi>St.</hi> James's-Park.</head>
+                  <stage>
+                     <hi>Enter</hi> Smyrna <hi>and,</hi> Olivia.</stage>
+                  <sp>
+                     <speaker>Smy.</speaker>
+                     <p>PRay, Gentlewoman be pleaſed to wear your Mask, till we're
+got out of this Road of Foppery; I had better have gone Ten Miles about.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Oliv.</speaker>
+                     <p>Lord, Mr. <hi>Smyrna,</hi> 'tis ſo hot, my Mask
+ſtiſles me; but where are you going? I am ſure Walking is not your
+Buſineſs, eſpecially in this place.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Smy.</speaker>
+                     <p>Yes, Wife, to chuſe, that you may have the pleaſure of
+comparing your old damned Jealous Husband, to theſe Gay fluttering Fops, that
+ſail along by us; Here's your Gallant, Mr. <hi>Wildman,</hi> coming, put on
+your Mask, I ſay; Not for the World, I warrant you.</p>
+                  </sp>
+                  <stage>
+                     <hi>Enter</hi> Wildman.</stage>
+                  <sp>
+                     <speaker>Oliv.</speaker>
+                     <p>'Tis too late, he has ſeen me, Husband, 'twill be
+un<g ref="char:EOLhyphen"/>civil.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wild.</speaker>
+                     <p>Mr. <hi>Smyrna,</hi> your Servant; The fair <hi>Olivia</hi>
+here! Since when is it, Sir, you have been for far reconciled to our Lewd end
+of the World, to truſt this Lady amongſt us.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Smy.</speaker>
+                     <p>Hum, Sir, not too much of truſting neither, but yet, as
+you ſay, 'tis a dangerous place, for an old Fellow, that has an Handſom
+Wife; Have not you that Opinion of her, Mr. <hi>Wild<g ref="char:EOLhyphen"/>man?</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Wild.</speaker>
+                     <p>All the World muſt allow her that Character, but Faith, my
+Friendſhip to you, hinders me to think of her, as I would, if ſhe were not
+thy Wife.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Smy.</speaker>
+                     <p>And you, forſooth, Have not you a juſt Eſteem of Mr.
+<hi>Wildman</hi>'s Merit?</p>
+                  </sp>
+                  <pb n="10" facs="tcp:51767:12"/>
+                  <sp>
+                     <speaker>Oliv.</speaker>
+                     <p>As I ought, I know my Duty to you, Husband, and never had a
+thought againſt it.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Smy.</speaker>
+                     <p>Why, very well, ſince you are both ſo indifferent,
+'twere no great harm, if you never ſee one another again. As to you,
+Gentlewoman, 'tis Mortifying you too much, to ſuffer the Viſits of a Man,
+who has not Senſe to know your Worth; And, let me tell you, Mr.
+<hi>Wildman,</hi> I Love my Wife, and don't like People that ſlight her
+Charms, and prefer my Friendſhip to her Beauty, therefore till you come
+better prepared to do her juſtice, your Viſits will be but offenſive, and
+if ever you make another, I ſhall conclude you have taken a Friends Advice.
+Come, wife.</p>
+                  </sp>
+                  <stage>
+                     <hi>Ex. Smy.</hi> and <hi>Oliv.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Wild.</speaker>
+                     <p>Go thy ways, for an old Jealour, I wiſh be-gad, I could
+ſay, Cuckold, but my honeſt Endeavours ſhall not be wanting to make thee,
+that thou believeſt thy ſelf.</p>
+                  </sp>
+                  <stage>
+                     <hi>Enter</hi> Wilmore.</stage>
+                  <sp>
+                     <speaker>Wil.</speaker>
+                     <p>Thank God for my deliverance, I'm got into the open Air
+again, without the incumbrance of an old Woman, who is not ſatisfied,
+unleſs you confine year Eyes to the Curſe of meeting none but hers.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wild.</speaker>
+                     <p>If thou art weary already, what wilt thou be when the
+Nooſe is fixt, and no kind relieving Hand can do thee the curteſy of
+unſlipping it.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wil.</speaker>
+                     <p>I confeſs, I have given the Town reaſon to believe, I
+cou'd allow <hi>May</hi> and <hi>December</hi> the two ends of time, to meet in
+our ex<g ref="char:EOLhyphen"/>pected Wedlock.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wild.</speaker>
+                     <p>The Opinion of thy Senſe was not forfeited by that, we
+always believed, thou hadſt enough to diſtinguiſh between the glittering
+Metal and the Allay; But are you not reſolved to Marry my Lady
+<hi>Young-Love.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Wil.</speaker>
+                     <p>So far from it, that I wou'd run my ſelf into any other
+Nooſe in <hi>Chriſtendom,</hi> to avoid hers; <hi>Marina</hi> is the
+Goddeſs here; You have doubtleſs heard her Father left her a Fortune of
+12000 <abbr>
+                           <hi>l.</hi>
+                        </abbr> on Condition ſhe Married with my Lady
+<hi>Young-Love's</hi> Conſent, elſe Shame and Beggery to be her
+Portion.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wild.</speaker>
+                     <p>That any Man ſhou'd be ſo far wedded to the Follies of
+his Wife to deſire the entailing of them upon his Poſterity.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wil.</speaker>
+                     <p>I have held a long Age of Diſſimulation with her Mo<g ref="char:EOLhyphen"/>ther
+to permit her return to Town, and get her Fortune ſecured, 
+<pb n="11" facs="tcp:51767:12"/>engaged my Father with the hopes of Marrying her, and
+doubt<g ref="char:EOLhyphen"/>leſs I ſhou'd prevail over the old Lady, if it were not for ano<g ref="char:EOLhyphen"/>ther;
+but this is the hardeſt part of my Confeſſion, for I think, whatſoever
+Cuſtom can perſuade, that Man's a Villain, who boaſts a Lady's
+Favour.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wild.</speaker>
+                     <p>Begad if our Town Ladies come to know how well thou art
+principled, thou may'ſt e'en make thy own Markets amongſt them, 'tis not to
+be matched in thy green years, which commonly reckons the pleaſure of telling
+as the foremoſt delight in an Amour.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wil.</speaker>
+                     <p>I am not Beaux enough for that yet. To be ſhort then,
+<hi>Beliria</hi> who you know lives with, and governs my Lady
+<hi>Young-Love,</hi> did me the honour to like me, and I had reaſon to
+believe my ſelf Maſter of her firſt Favours, I cou'd not ſhake off her
+fond<g ref="char:EOLhyphen"/>neſs, tho' all mine was ſecretly addreſt to <hi>Marina,</hi> for
+whoſe ſake I was forced to diſſemble with <hi>Belire.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Wild.</speaker>
+                     <p>Begad that was ſlavery enough, for the trouble of getting
+hand ſomly rid of a Miſtreſs, is ten times more than what it coſts to
+make her ſuch.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wil.</speaker>
+                     <p>She catch'd the diſcovery from my Eyes, and unknown to
+<hi>Marina</hi> perſwaded lier Mother to ſend her into the Country, then to
+confound me further, the old Lady grew fond of me, <hi>Belira</hi> put<g ref="char:EOLhyphen"/>ting it
+into her Head, that it would Marry her, by which means, ſhe conſtantly
+ſecured her ſelf of ſeeing me, being in the ſame Houſe, and
+reaſonably thought, the intereſt ſhe had in my Heart, ran no hazard, by
+beſtowing my Perſon upon an old Woman.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wild.</speaker>
+                     <p>Then how comes in, ſhe has ſuffered <hi>Marina</hi> to
+return, for I perceive ſhe manages at pleaſure,</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wil.</speaker>
+                     <p>'Twas conditionally, I Married my Lady <hi>Young-Love</hi>
+to morrow, and conſented that <hi>Marina</hi> ſhould be beſtowed upon my
+Father.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wild.</speaker>
+                     <p>And how do you think to evade either.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wil.</speaker>
+                     <p>'Tis for that reaſon I make this diſcovery to engage
+your aſſiſtance, <hi>Belira</hi> will not ſuffer her to ſign for her
+Daughters Portion, till the moment of Execution, but my preſent
+uneaſineſs is to entertain <hi>Marina,</hi> I have ordered Muſick and
+Dancing after Supper, if poſſible engage <hi>Belira</hi> in your Affairs,
+that ſhe may not concern her ſelf with mine.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wild.</speaker>
+                     <p>You have ordered your own without conſidering my
+applications to <hi>Belira</hi> may ruine me with <hi>Orinda.</hi>
+                     </p>
+                  </sp>
+                  <pb n="12" facs="tcp:51767:13"/>
+                  <sp>
+                     <speaker>Wil.</speaker>
+                     <p>Quite contrary, that Coquet never likes a Man ſo well as
+when he does not ſeem to be fond of her, truſt my Opinion; beſides 'twere
+no Obligation if you did not run a little hazard for your Friend.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wild.</speaker>
+                     <p>You ſhall command me, and now I conſider, I'le bring Sir
+<hi>Amorous Courtall,</hi> who is Fop e<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ough, to think all Women that have fine Cloaths Beauties; him I
+deſign for the old Lady, if ſhe ſhou'd happen to like him 'twere no ill
+way of getting rid of her.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wil.</speaker>
+                     <p>That will be admirable, but be ſure ply <hi>Beliria</hi>
+cloſe, ſhe's handſom enough to reward your pains, and becauſe of her
+intereſt with my Lady <hi>Young-Love,</hi> the only Enemy I can ap<g ref="char:EOLhyphen"/>prehend,
+— They are come into the Walk, we'll meet them at the next turn.</p>
+                  </sp>
+                  <stage>Ex. Wil. Wild.</stage>
+                  <stage>
+                     <hi>Enter</hi> Marina <hi>and</hi> Belira;
+<hi>meeting</hi> Orinda <hi>they ſalute.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Ori.</speaker>
+                     <p>Your Lad'ſhips moſt joyful humble Servant, you'r
+wel<g ref="char:EOLhyphen"/>come to Town; how long have you done it the honour to grace it with your
+preſence.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mor.</speaker>
+                     <p>But to day, Madam, I'm pleaſed at the good fortune of
+meeting you ſo ſoon.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ori.</speaker>
+                     <p>
+                        <hi>Beliria</hi> your Servant, O Gud I've been at the
+Play-houſe, where there has been the odiouſeſt Play, ſo dull, that o'
+my Conſcience, I ſhan't abide to ſet my foot in it again this Twelve
+Month.</p>
+                     <stage>Take ſnuff this time.</stage>
+                  </sp>
+                  <sp>
+                     <speaker>Bel.</speaker>
+                     <p>I believe there was very little Company there this Wea<g ref="char:EOLhyphen"/>ther;
+how come you to prefer that Diverſion to <hi>Hide-Park?</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Ori.</speaker>
+                     <p>O Gud, you may very well ask <hi>Beliria,</hi> for 'twas no
+choice of mine, an Alderman's Wife and Daughter did me the diſplea<g ref="char:EOLhyphen"/>ſure to
+Dine with me, and preſs'd me beyond decency to go with them; O Jeſu, what a
+vexation 'tis to be with thoſe preciſe ſort of People, that wou'd not go
+out of their Road, tho' to be leſs odious.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mor.</speaker>
+                     <p>They were famouſly ſet out, I warrant you.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ori.</speaker>
+                     <p>O moſt unſuitably, the very ſight of their Trappings
+wou'd have made you died of heat, of all things I hate Winter Cloaths in
+Summer; what ſay you <hi>Beliria?</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Bel.</speaker>
+                     <p>That there are a ſort of People that think Finery never
+out of ſeaſon.</p>
+                  </sp>
+                  <pb n="13" facs="tcp:51767:13"/>
+                  <sp>
+                     <speaker>Orin.</speaker>
+                     <p>Lard, <hi>Marina,</hi> I finiſh't a Copy of Verſes
+laſt night, which I have ſent to half a ſcore of my Friends for their
+approbation, I beſtow'd the laſt upon admirable Sir <hi>Amorous
+Courtal,</hi> but I'le ſend you one of them.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mor.</speaker>
+                     <p>You'l not fail.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ori.</speaker>
+                     <p>Lard, Madam, what do you take me for? <hi>Beliria</hi>
+muſt come in too for a Judge.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Bel.</speaker>
+                     <p>Pray, what was the Subject?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mor.</speaker>
+                     <p>I know none ſo Entertaining as her ſelf.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ori.</speaker>
+                     <p>O, Madam, your moſt grateful Servant, 'twas upon the
+different Addreſſes I have had made to me of late; O Jeſu, ſuch a glut
+of Foppery and Mankind; I long to breath a little of the Country Air, that I
+may get rid of this Town Lumber, and entertain my Muſe alone with the
+reflections of what ſhe has left behind.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mor.</speaker>
+                     <p>But, who is that Sir <hi>Amorous Courtall,</hi> he's
+ſprung up ſince my reign.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ori.</speaker>
+                     <p>O Gud, a very pretty Gentleman, <hi>Marina,</hi> ſo Airy,
+ſo well Dreſt, ſo Handſom.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Bel.</speaker>
+                     <p>See how Opinions differ, if you'l take mine,
+<hi>Marina,</hi> he's the moſt out-caſt Fop in Nature, he once made the
+Campagne, but all he remembers of it, is running to <hi>Breda,</hi> which has
+given him fears enough to keep at home all his life after.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mar.</speaker>
+                     <p>
+                        <hi>Orinda,</hi> Will you favour me with your Company to
+night, we have Muſick and Dancing?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ori.</speaker>
+                     <p>I'le wait upon you anon, 'tis my Lady Junket's Viſiting
+day, and ſhe'l never pardon me, if I omit my Devoir.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Bel.</speaker>
+                     <p>O, that old Goſſipping thing, ſhe'l never have loſt
+the re<g ref="char:EOLhyphen"/>liſh of youth, but wiſhes ſo well too't, ſhe'l bring young
+loving things together in ſpight of their Hearts.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ori.</speaker>
+                     <p>Fye <hi>Beliria,</hi> Gude I hate you, for being ſo
+cenſorious, becauſe ſhe allows the freedom of her Apartment to Quality of
+both Sexes; A Lady of her age can't be friendly or ſo, but preſently ſhe
+is thought procuriſh.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Bel.</speaker>
+                     <p>O, very friendly, and then ſo grateful, one Treat ſhall
+make her yours all her life after.</p>
+                  </sp>
+                  <pb n="14" facs="tcp:51767:14"/>
+                  <stage>
+                     <hi>Enter Sir</hi> Amorous Courtall, Wildmore,
+<hi>and</hi> Wildman.</stage>
+                  <sp>
+                     <speaker>Wil.</speaker>
+                     <p>Ladies, your humble Servant, 'tis a delicate Evening.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mar.</speaker>
+                     <p>Sir, your Servant, ſee <hi>Beliria, Orinda</hi> is
+ſtealing away, go after, and bring her back.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Bel.</speaker>
+                     <p>I have ill Nature enough to break an Appointment, and I
+fancy here is one.</p>
+                     <stage>
+                        <hi>Ex.</hi> after <hi>Orinda.</hi>
+                     </stage>
+                  </sp>
+                  <sp>
+                     <speaker>Wil.</speaker>
+                     <p>To <hi>Mar.</hi> I have that to ſay which it concerns you
+to know, favour me but with an opportunity after Supper, and let
+<hi>Beliria</hi> know nothing of it.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mar.</speaker>
+                     <p>In the Garden l'le expect you.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wil.</speaker>
+                     <p>Ten thouſand ages, till then, O <hi>Marina,</hi> do not
+fail me, my Heart will ſuffer unſpeakably if you ſhou'd.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mor.</speaker>
+                     <p>No more, take my word I'le be there.</p>
+                  </sp>
+                  <stage>
+                     <hi>Enter</hi> Orinda <hi>and</hi> Beliria.</stage>
+                  <sp>
+                     <speaker>Ori.</speaker>
+                     <p>O Jeſu, ſure <hi>Beliria</hi> you have loſt your
+ſenſes, who wou'd be ſeized thus.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Bel.</speaker>
+                     <p>Together, and ſo thoughtful, I ſee the growing evil.</p>
+                     <stage>Aſide.</stage>
+                  </sp>
+                  <sp>
+                     <speaker>Sir <hi>Am.</hi>
+                     </speaker>
+                     <p>Let me be nothing, Madam, if ever I ſaw any thing ſo
+killing as your Eyes, they have Charms, my Heart never under<g ref="char:EOLhyphen"/>ſtood
+before.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mar.</speaker>
+                     <p>Yours is a general gallantry to the whole Sex, Sir
+<hi>Amo<g ref="char:EOLhyphen"/>rous.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Orin.</speaker>
+                     <p>Lard, Sir. <hi>Amorous,</hi> what a loſs ſhou'd we have
+had, if you had made the Campagne.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir <hi>Am.</hi>
+                     </speaker>
+                     <p>I muſt confeſs I ſtaid in pure Charity to the fair
+Sex, to expoſe them, by my abſence, was an inhumanity my Heart cou'd not
+agree to.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mar.</speaker>
+                     <p>I fancy, Sir <hi>Amorous,</hi> you are very fortunate in
+A<g ref="char:EOLhyphen"/>mours.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir <hi>Am.</hi>
+                     </speaker>
+                     <p>Let me expire, Madam, if I have any reaſon to com<g ref="char:EOLhyphen"/>plain,
+but thoſe fair Eyes, makes me forget, every thing but them<g ref="char:EOLhyphen"/>ſelves.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Bel.</speaker>
+                     <p>I ſwear Mrs. <hi>Wildman,</hi> you talk pleaſantly, come
+<hi>Marina,</hi> ſhall we not be going?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mar.</speaker>
+                     <p>When you pleaſe; <hi>Orinda</hi> we muſt not leave you
+be<g ref="char:EOLhyphen"/>hind.</p>
+                  </sp>
+                  <pb n="15" facs="tcp:51767:14"/>
+                  <sp>
+                     <speaker>Wil.</speaker>
+                     <p>You'l give me leave to wait on you to your Coach,
+La<g ref="char:EOLhyphen"/>dies.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wild.</speaker>
+                     <p>Sir <hi>Amorous,</hi> not ſo faſt, come back, 
+<stage>[<hi>Ex. Monet. Wild.</hi> Sir <hi>Am</hi>]</stage>
+I've a word with you.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir <hi>Am.</hi>
+                     </speaker>
+                     <p>Pax on you, let me go, I muſt wait upon the Ladies, 'tis
+ſuch an omiſſion, that I ſhall never be pardon'd, nor deſerve the
+Eſteem of a Gentleman amongſt them.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wild.</speaker>
+                     <p>You may appologize for that anon, I call'd you back, to give
+you a little Advice.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir <hi>Am.</hi>
+                     </speaker>
+                     <p>Be ſudden then, I cannot live, divided from
+<hi>Marina.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Wild.</speaker>
+                     <p>The old fire, that flames upon ſight of every new Face,
+but I deſign you for another, who exceeds her in advantages, as much as you
+do all the Play-houſe Beaus in Dreſs and Gallan<g ref="char:EOLhyphen"/>try.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir <hi>Am.</hi>
+                     </speaker>
+                     <p>No ill Compariſon; who is it? I dye to know.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wild,</speaker>
+                     <p>Firſt then, ſhe's prodigious rich, wears extravagant
+fine Cloaths, and has the beſt way of putting them on.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir <hi>Am.</hi>
+                     </speaker>
+                     <p>O, of all things, I love a Lady well Dreſt, let me be
+nothing, if one that is other, does not look mean, and as if ſhe were to be
+loved according.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wild.</speaker>
+                     <p>Then ſhe's Amorous, and will no doubt be preſently taken
+with you.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir <hi>Am.</hi>
+                     </speaker>
+                     <p>'Pſhaw, Pax, ſo they all tell me, I cou'd have bated her
+that part of the Character, 'tis ſurfeiting.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wild.</speaker>
+                     <p>Her Fortune however is enviting, if you apply your ſelf to
+her, ſhe's rich enough to reward your labour.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir <hi>Am.</hi>
+                     </speaker>
+                     <p>Let me expire, if thou doſt not talk ſcandalouſly, I
+hope 'tis not Matrimony thou hint'ſt at.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wild.</speaker>
+                     <p>Why, you're too much a Man of Mode, to make the bur<g ref="char:EOLhyphen"/>then
+uneaſie to you; a Civil Husband, and ſo forth, is all that a Wife can
+rationally expect from you.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir <hi>Am.</hi>
+                     </speaker>
+                     <p>Gad, now I think on't, Cold Civility to a Wife, gives one a
+good air, let me dye, if I cou'd be fond of an Angel that I was once Married
+to, but to be ſeen abroad with her, were an ex<g ref="char:EOLhyphen"/>travagance, I ſhou'd never
+forgive my ſelf for.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wild.</speaker>
+                     <p>Or if it ſhou'd happen, once in an Age, I fancy, you you
+wou'd make juſt ſuch meen, as my Lord <hi>Stately,</hi> and his Lady, when
+they are together in one Coach at <hi>Hyde-Park.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir <hi>Am.</hi>
+                     </speaker>
+                     <p>Juſt for all the World, or let me expire, let me never
+breath, if I have not been paſſionately in love with her uneaſie Frowns,
+and even raviſh't to find during the whole Park time ſhe 
+<pb n="16" facs="tcp:51767:15"/>had not beſtow'd one word, nor look, upon her Lord, one
+wou'd have ſworn, but by her Frowns, ſhe had not known him to be ſo near
+her.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wild.</speaker>
+                     <p>Gad, I think he matches her, his lolling back in his Coach,
+without glance or motion, ſpeaks as much mortification as her ſulleneſs,
+the beſt we can conclude is, that they'r heartily weary of one another.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir <hi>Am.</hi>
+                     </speaker>
+                     <p>Shew me that Married Couple who are not, but then there's
+good Management in thoſe Affairs, as in all others; Is it reaſonable to
+diſguſt one ſelf with a Wives Company, only to oblige the Town with
+Matter for remark, let her take her Coach, and leave me the freedom of my
+Chariot, I'le give her the Cere<g ref="char:EOLhyphen"/>mony of the Glaſs as we meet, paſs on and
+make no uneaſie re<g ref="char:EOLhyphen"/>flections of the heavy load intail'd upon Mortal life.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wild.</speaker>
+                     <p>Beſides, my Widow will ſet all uneaſineſs aſide,
+and re<g ref="char:EOLhyphen"/>pair the breach you have made in your Eſtate.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir <hi>Am.</hi>
+                     </speaker>
+                     <p>The Campaign, the Campaign <hi>Charles,</hi> let me be
+no<g ref="char:EOLhyphen"/>thing, if I did not looſe Baggage to the value of 1500
+<abbr>
+                           <hi>l.</hi>
+                        </abbr> all my Dreſſing Plate, Wardrobe, and Military
+Accoutrements, and was glad to ſecure my ſelf at <hi>Breda,</hi> with only
+the days Provi<g ref="char:EOLhyphen"/>ſion upon my Back, thou art my Friend, to whom I may own
+ſuch a Misfortune, let me expire, if ever I was in ſuch a Conſter<g ref="char:EOLhyphen"/>nation
+ſince I was born into the World.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wild.</speaker>
+                     <p>'Tis now Eight a Clock; do you know my Lady
+<hi>Young-Loves</hi> here in the Square, any body will tell you the Houſe,
+I'll meet you there at Nine.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir <hi>Am.</hi>
+                     </speaker>
+                     <p>Adieu; I'll walk over the Park to my Lodgings, write an
+Excuſe to an Expecting Lady, who does my Company the Honour to ſigh for it,
+and then I'll be certain to wait upon you.</p>
+                  </sp>
+                  <stage>Exeunt ſeverally.</stage>
+               </div>
+            </div>
+            <div n="3" type="act">
+               <pb n="17" facs="tcp:51767:15"/>
+               <head>ACT III.</head>
+               <div n="1" type="scene">
+                  <head>SCENE I.</head>
+                  <stage>
+                     <hi>Enter</hi> Knowlittle, <hi>and his Man</hi>
+Timothy.</stage>
+                  <sp>
+                     <speaker>Know.</speaker>
+                     <p>WHy truly <hi>Tim.</hi> we have had but a ſorry Day
+on't.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tim.</speaker>
+                     <p>Indifferent, Maſter, beſides thoſe that came to
+inquire after Stolen Goods; the Party that wou'd know the Cauſe why ſhe did
+not conceive, paid us no<g ref="char:EOLhyphen"/>tably.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Know.</speaker>
+                     <p>Look out ſome body knocks, <hi>Tim.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Tim.</speaker>
+                     <p>O Gemini, Maſter! 'Tis Mr. <hi>Smyrna,</hi> the Turky
+Mer<g ref="char:EOLhyphen"/>chant, and Madam <hi>Olivia</hi> his Wife; I am very well acquainted with
+her Maid, Mrs. <hi>Phaebe.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Know.</speaker>
+                     <p>Peace, we muſt not pretend to know them till the Stars
+have been conſulted: I'll to my Study, mind your hits, <hi>Tim.</hi> and get
+what intelligence you can.</p>
+                  </sp>
+                  <stage>Exit.</stage>
+                  <stage>
+                     <hi>Enter</hi> Smyrna, Olivia, <hi>and</hi> Tim.</stage>
+                  <sp>
+                     <speaker>Smyrn.</speaker>
+                     <p>Where's your Maſter, Friend, I hope 'tis not too late to
+ſpeak with him.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tim.</speaker>
+                     <p>In his Study, Sir; I'll go and acquaint him with your being
+here; He does not uſe to appear after Sun.</p>
+                  </sp>
+                  <stage>
+                     <hi>Exit</hi> Tim.</stage>
+                  <sp>
+                     <speaker>Oliv.</speaker>
+                     <p>Lord, Husband, you are the ſtrangeſt Man in the World,
+what will People think of you?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Smyrn.</speaker>
+                     <p>What, Miſtreſs, you'r afraid the Devil ſhould ſpeak
+Truth, and diſcover your Abominations.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Oliv.</speaker>
+                     <p>The Devil's the Father of Lyars, how ſhou'd he ſpeak
+Truth.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Smy.</speaker>
+                     <p>You are the Mother of Lyars, and that Cuckold maker
+<hi>Wild-man,</hi> one of your vile Diſciples.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Oliv.</speaker>
+                     <p>Becauſe you heard he courted me before I was Married, you
+think I muſt needs be naught with him.</p>
+                  </sp>
+                  <pb n="18" facs="tcp:51767:16"/>
+                  <sp>
+                     <speaker>Smy.</speaker>
+                     <p>No, no, very Good in your ſenſe, I warrant; Naught, why
+thou art not a Citizen's Wife for nothing; thou haſt more grace I truſt in
+the Lord, than not to think Cuckolding thy Hus<g ref="char:EOLhyphen"/>band a good honeſt practicable
+Thing; thoſe are naught who do it ſo awkardly that the World is acquainted
+with it; nay their very Husbands, who are always the laſt in knowing the
+Favours that are done them.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Oliv.</speaker>
+                     <p>But ſure, you don't believe, that an ignorant block-head
+of a Fortune-teller, ſhould ſpeak any thing like Truth.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Smyr.</speaker>
+                     <p>I'll tell you what I believe though, Miſtriſs, in my
+caſe of Enquiry your Ladiſhip can exceed all the Cunning men in
+<hi>Eng<g ref="char:EOLhyphen"/>land,</hi> and read our Fortunes to a Tittle; but the Devil's in't, you
+won't make me as wiſe as your ſelf, but put me here upon unlawful means,
+the Sin will lye at your door, Wife, you'd as good confeſs, and ſave
+charges into the Bargain.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Oliv.</speaker>
+                     <p>If I ſhould, I'm ſure you wou'd not believe me.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Smyr.</speaker>
+                     <p>The Devil take me then; Come be quick, before Maſter
+Aſtrologer comes.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Oliv.</speaker>
+                     <p>Lord, Husband, what do you take me for? Why, if it were
+ſo, do you think I'd be ſuch a Fool to confeſs.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Smyr.</speaker>
+                     <p>No; Thou'rt wiſer o'my Conſcience, but be ſure you are
+as truſty to other Folks; you Women have ſhe Friends that you diſcover
+your failings to, and that way the Secret comes about; 'tis for your
+Intereſt, as well as mine, to keep the matter private, if 'twere but for the
+ſake of preſerving your Lovers; they are ſqueamiſh amongſt ſuch a
+glut of Womens Fleſh, and are diſguſted by that which has been blown
+upon; but ſee the Devil appears to decide our Controverſie.</p>
+                  </sp>
+                  <stage>
+                     <hi>The Scene Opens and diſcovers</hi> Knowlittle
+<hi>behind a long Table; Books, Globes, Compaſſes, Pen, Ink, Paper,</hi>
+&amp;c.</stage>
+                  <sp>
+                     <speaker>Know.</speaker>
+                     <p>Is your buſineſs with me, Friend.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Smyr.</speaker>
+                     <p>Yes, Mr. <hi>Knowlittle,</hi> I've a doubtful Queſtion to
+be re<g ref="char:EOLhyphen"/>ſolved, therefore there's ſomething by way of Encouragement, only
+whether my Wife do me Juſtice, you underſtand me Friend; I'm plaguily
+afraid of being a Cuckold, an ignorant Cuckold, Sir, for that's all; Pray
+conſult the Stars, that I may come to the know<g ref="char:EOLhyphen"/>ledge of my good Fortune.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Know.</speaker>
+                     <p>We'll erect a Scheme, or as the Vulgar term it, caſt a
+Figure, and give you the Opinion of the Stars thereupon.</p>
+                  </sp>
+                  <pb n="19" facs="tcp:51767:16"/>
+                  <sp>
+                     <speaker>Smyr.</speaker>
+                     <p>He's Conjuring; we ſhall immediately ſee the Devil in
+the Circle.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Oliv.</speaker>
+                     <p>Are you ſo ſilly to believe it, he ſeems to be a
+ſorry ig<g ref="char:EOLhyphen"/>norant Knave, that has more Will than Power to do Evil.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Smyr.</speaker>
+                     <p>They ſay a Woman can out-wit the Devil, and I believe
+out-Face him too — Well, Mr <hi>Knowlittle,</hi> have you done? What do
+the Stars ſay, am I repreſented with Horns like Capricorn, with a certain
+Tall-young Gentleman in my Figure, who does my Wife the Honour to Love her,
+better than ſhe can her Husband.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Know.</speaker>
+                     <p>Your Wife, Sir, looks like a good Virtuous Lady, and your
+Figure ſpeaks you to be a mighty diſſatisfy'd Perſon, a little troubled
+in your Brain with Jealouſie; but either my Skill deceives me, or you have no
+occaſion for it.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Smyr.</speaker>
+                     <p>How ſay you Maſter <hi>Knowlittle,</hi> do you like my
+Wife too? does the Stars denote me for further Cuckoldom, what encourage<g ref="char:EOLhyphen"/>ment
+do they give you, to take her part for ſhe's ſo bad, not one Devil in Hell
+dares do it without a Bribe.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Know.</speaker>
+                     <p>Is that one queſtion all you wou'd have reſolved.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Smyr.</speaker>
+                     <p>Ay Friend, and I ſee 'tis more than thou canſt do, thou
+art going to convince me of the Vanity and Folly of all thoſe who have helped
+thee to deceive themſelves.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Know.</speaker>
+                     <p>How, Sir, do you undervalue my Profeſſion?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Smyr.</speaker>
+                     <p>O no, Sir, Your Profeſſion is a very Learned
+Profeſſion; but I much doubt the Skill of the Profeſſor:</p>
+                  </sp>
+                  <sp>
+                     <speaker>Know.</speaker>
+                     <p>Were it not for this Virtuous, Good Lady, I cou'd ſhow you
+a Proof of my Art wou'd make you tremble; yet verily it may be a means to
+acquit her; how ſay you, Sir, if you dare ſtand it, I'll raiſe a Familiar
+to convince you, and protect your Wife near me.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Smyr.</speaker>
+                     <p>Wou'd you frighten me into an Opinion of your Art, you that
+can't tell a Man whether, or no, he's a Cuckold; I have no Faith in you, and
+therefore dare ſtand the Worſt.</p>
+                  </sp>
+                  <stage>Knowlittle <hi>takes</hi> Olivia <hi>behind the Table and
+whiſpers her, turns over his Books, uſes poſtures of Conjuration,
+ſtamps with his Foot; then</hi> Tim <hi>ariſes, dreſs'd like a Fury, with
+a Wand in his Hand, ſtrikes</hi> Smyrna <hi>thrice over the Head with
+it,</hi> Oliva <hi>ſhreeks,</hi> Smyrana <hi>trem<g ref="char:EOLhyphen"/>bles, looks affrighted, and
+ſinks down as ſueh in a Chair.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Tim.</speaker>
+                     <l>From Hell's deep Center, hither am I come,</l>
+                     <l>To warn thee, Mortal of thy heavy doom;</l>
+                     <l>Thy Wife is Chaſte, yet ſhalt thou not believe,</l>
+                     <l>Thy Viſionary Doubts, thy Mind deceive;</l>
+                     <pb n="20" facs="tcp:51767:17"/>
+                     <l>Therefore remain accurſt, and may'ſt thou find,</l>
+                     <l>Thy conſtant plague, in thy ſuſpicious Mind.</l>
+                     <stage>Deſcends.</stage>
+                  </sp>
+                  <sp>
+                     <speaker>Oliv.</speaker>
+                     <p>Mr. <hi>Knowlittle,</hi> accept of this Gratuity; my Husband
+faints! Lord, I wiſh his fears have not taken away his uſe of Hear<g ref="char:EOLhyphen"/>ing,
+He'll never remember what the Devil ſaid to him.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Know.</speaker>
+                     <p>Sir, Sir; How fares it with you?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Oliv.</speaker>
+                     <p>Lord! How do you do, dear Husband? I'm frighted out of my
+Wits; I'll never venture to the Devil again with you, you ſhall e'en go by
+your ſelf, next time for me.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Smyr.</speaker>
+                     <p>Ay poor Wife; as thou ſay'ſt thou wilt, I believe, for
+ſake me in all Perils; but is he gone are you ſure.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Know.</speaker>
+                     <p>Gone; Yes, Sir, what do you think; by vertue of my Art I can
+lay as well as raiſe— This 'twas to be incredulous, and undervalue the
+Myſteries of Knowledge; I was ſorced to uſe ex<g ref="char:EOLhyphen"/>traordinary means to
+convince you: O the Blindneſs snd Stony-heartedneſs of the Ignorant.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Smyr.</speaker>
+                     <p>Pray let a Coach be call'd— I'm very ill— but
+Maſter <hi>Fortune-Teller,</hi> your Skill in the <hi>Black-Art,</hi>
+ſhan't make me believe my Wife the Fairer.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Oliv.</speaker>
+                     <p>'Tis the Capricio of all Old Men, Jealous of every thing
+that's Younger than themſelves.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Know.</speaker>
+                     <p>Ay, poor Lady; Heaven endow you with Patience<g ref="char:punc">▪</g>—
+There's a Coach, Sir.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Smyr.</speaker>
+                     <p>Is there, come Wife; good Night Friend.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Know.</speaker>
+                     <p>Sir, your Servant; Madam your Servant: <hi>Tim.</hi> wait
+upon the Gentry to the Coach.</p>
+                     <stage>
+                        <hi>Ex.</hi> Smy. Oliv. Tim.</stage>
+                     <p>Verily this Evening has helped the Morning, and both
+together made a good Day, few better.—</p>
+                     <stage>
+                        <hi>Enter</hi> Tim.</stage>
+                     <p>Now, <hi>Tim.</hi> thou didſt it admirably. </p>
+                  </sp>
+                  <sp>
+                     <speaker>Tim.</speaker>
+                     <p>Ay, Maſter, did not I; He little thinks, that from my
+hiding place, I over-heard all he ſaid; but how did the Habit ſet upon
+me.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Know.</speaker>
+                     <p>As like as the Devil cou'd be, every one in there way,
+<hi>Tim.</hi> all Trades have their Cheats, and this is to be ſaid for ours,
+we do it with their own conſents.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tim.</speaker>
+                     <p>Ay, Maſter, better this than worſe, every thing wou'd
+fain live, and we do but our honeſt endeavours thereto.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Know.</speaker>
+                     <p>Come, let's go in and pray, to morrow may but prove as good
+a Day.</p>
+                  </sp>
+                  <stage>Exeunt Omnes.</stage>
+               </div>
+               <div n="2" type="scene">
+                  <pb n="21" facs="tcp:51767:17"/>
+                  <head>SCENE II. <hi>Lady</hi> Young Loves
+<hi>Houſe.</hi>
+                  </head>
+                  <stage>
+                     <hi>Enter Sir</hi> Ruſtick, Wildman, <hi>and</hi>
+Belira.</stage>
+                  <sp>
+                     <speaker>Wild.</speaker>
+                     <p>TO Morrow, Sir <hi>Ruſtick</hi> is the happy day.</p>
+                     <p>Sir <hi>Ruſ.</hi> Be-gad, I long for the Sack-poſſet,
+and throw<g ref="char:EOLhyphen"/>ing the Stocking; that was the Faſhion when I was Married, and a
+good Sociable one too; I mean to make uſe of it ſtill. He, he, he! I have
+bin telling her, how eager all the young Fellows will be of hitting the Bride
+in the Face; but be-dad, I hope I ſhall hit her better ſome<g ref="char:EOLhyphen"/>where elſe;
+before <hi>George,</hi> I'll try to get a Nap in this Chair, and Dream of to
+Morrow, before to Morrow comes.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Bel.</speaker>
+                     <p>Sir <hi>Ruſtick</hi> is falling aſleep over his Wooing.
+When we force Nature beyond her ſelf, ſhe muſt return for a recruit.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wild.</speaker>
+                     <p>Be-gad Madam! You don't know what an Inſipid Fellow I am
+this way; I never Love taking fruitleſs pains: If I had not a real
+Inclination for you; the Devil take me, I if wou'd pretend it: For where's the
+ſatisfaction of diſſembling; when that, which ſhou'd be a reward to our
+endeavours, diſguſts our Inclinations.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Bel.</speaker>
+                     <p>You Men of the Town, never value a Woman for her ſelf;
+'tis only to increaſe the Wretched number, tho' your ſelves are never the
+better for it.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wild.</speaker>
+                     <p>That's only ſeen amongſt the Looſe, Idle part of
+Mankind; who not ſetting a value upon their own Reputations, think it no
+fault to Expoſe a Lady.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Bel.</speaker>
+                     <p>Well, not diſputing any further your Talent of Secrecy,
+what Security can you give of your Sincerity?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wild.</speaker>
+                     <p>Your Charms, and the opinion the World has of my Senſe:
+Be-gad, wou'd you have a more undoubted one? If a Woman be very handſome, and
+meets with a Man who has Wit enough to know and value it; the Conſequence
+ſpeaks it ſelf, and needs no Corroborating Evidence.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Bel.</speaker>
+                     <p>Well, enough of this to Night; I receive you for my Lover,
+and as ſuch, you muſt do me what Service I deſire. <hi>Wilmore</hi> and
+you, are mighty Friends. Has he told you nothing of his concern for
+<hi>Marina?</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Wild.</speaker>
+                     <p>He's to Marry her Mother — Beſides Child! I never
+care to hear thoſe ſort of ſecrets, for fear they ſhou'd expect mine in
+re<g ref="char:EOLhyphen"/>turn.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Bel.</speaker>
+                     <p>However indifferent your are, I'll tell you one; tho' the
+Re<g ref="char:EOLhyphen"/>port <pb n="22" facs="tcp:51767:18"/>runs of to Morrow. <hi>Wilmore,</hi> muſt Marry
+my Lady <hi>Young Love</hi> privately this Night, and if you pleaſe, you
+ſhall have the Honour of beſtowing her upon him.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wild.</speaker>
+                     <p>Your Commands wou'd make greater difficulties eaſie; but
+Pox, why this haſte, to bring a young Fellow into ſlavery? Does he know the
+Deſign?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Bel.</speaker>
+                     <p>She carried him hence to tell him: I can't imagine how
+ſhe'l bring it about; for I fancy, one muſt be a good deal out of
+Counte<g ref="char:EOLhyphen"/>nance, to let a young Fellow know, one has a mind to lye with him, one
+Night ſooner than he deſign'd.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wild.</speaker>
+                     <p>Ay, or deſired; for if I were to be Mr.
+<hi>Bridgroom,</hi> that wou'd be my Caſe always with an old Woman: But where
+is he now?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Bel.</speaker>
+                     <p>Shut up with her in her Cloſet; if you'l ſtay a Moment,
+I'll go ſee what's become of 'em.</p>
+                  </sp>
+                  <stage>
+                     <hi>Exit</hi> Belira.</stage>
+                  <sp>
+                     <speaker>Bel.</speaker>
+                     <p>If we don't take care, this Gipſey will be too cunning for
+us all; Pox take Sir <hi>Amorous;</hi> Where can he ſtay?</p>
+                  </sp>
+                  <stage>
+                     <hi>Enter</hi> Iſabel.</stage>
+                  <sp>
+                     <speaker>Iſa.</speaker>
+                     <p>Is Madam <hi>Belira</hi> here? My Lady Enquires for her.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wild.</speaker>
+                     <p>No Child, ſhe's juſt gone; but here's a Friend of yours,
+wou'd be glad to ſee you at my Lodgings.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Iſa.</speaker>
+                     <p>I aſſure you Mr. <hi>Wildman,</hi> you are miſtaken in
+me; I wou'd not be a Whore, if you wou'd keep me a Coach and Six Horſes, to
+tend me all days of my Life.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wild.</speaker>
+                     <p>Nay, now I'm ſure you lye.</p>
+                  </sp>
+                  <stage>
+                     <hi>Exit</hi> Iſabel.</stage>
+                  <stage>
+                     <hi>Enter</hi> Wilmore.</stage>
+                  <sp>
+                     <speaker>Wil.</speaker>
+                     <p>Pox take all old <hi>Amorous</hi> Women; I ſtinck of
+Petter as bad as her ſelf: I fancy it to be like our Perriwiggs, that retain
+the ſcent of Tobacco, after being in a City Coffee-Houſe. <hi>Belira</hi>
+has told you.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wild.</speaker>
+                     <p>Yes, yes — Have you ſeen <hi>Marina?</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Wil.</speaker>
+                     <p>Where ſhou'd I ſee her, in her Mother's Cloſet?
+Be-gad, you wou'd have laught your ſelf to Death, to hear her break the
+buſineſs to me. She was in ſo good a Humour, that had I not wanted
+Witneſſes, ſhe wou'd have ſign'd, without conſulting her Oracle,
+<hi>Belira.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>VVild.</speaker>
+                     <p>'Tis pity, the Poor Lady ſhou'd be diſappointed of a
+Husband; Sir <hi>Amorous</hi> ſhall Marry her.</p>
+                  </sp>
+                  <sp>
+                     <speaker>VVil.</speaker>
+                     <p>But how? I don't think it feaſible.</p>
+                  </sp>
+                  <sp>
+                     <speaker>VVild.</speaker>
+                     <p>We'll try to turn our Modern Comedy-Plots into good,
+ſo<g ref="char:EOLhyphen"/>ber, earneſt, and make her Marry one for another.</p>
+                  </sp>
+                  <sp>
+                     <speaker>VVil.</speaker>
+                     <p>Impoſſible! <hi>Belira</hi> is her ſhadow, and not to
+be deceived. They ſtay Supper for us; my appointment holds with
+<hi>Marina;</hi> the Muſick will amuſe the reſt of the Company; if
+poſſible, don't let <hi>Beli<g ref="char:EOLhyphen"/>ra</hi> follow us.</p>
+                  </sp>
+                  <pb n="23" facs="tcp:51767:18"/>
+                  <sp>
+                     <speaker>VVild.</speaker>
+                     <p>If ſhe follows you, I'll follow her, I aſſure you, for
+I've talked my ſelf, into a kind of liking of her; but we muſt not leave
+the old Gentleman behind us. Sir, Sir! How ſound he ſleeps? He's taking up
+his Rents before-hand, and providing for to Morrow Night, which he Fancies will
+be no good one of reſt to him: They ſtay Supper for you Sir
+<hi>Ruſtick.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir <hi>Ruſ.</hi>
+                     </speaker>
+                     <p>Supper, why, what's a Clock?</p>
+                     <stage>Yawns and wakes.</stage>
+                  </sp>
+                  <sp>
+                     <speaker>VVil.</speaker>
+                     <p>Near ten, Sir: Shall we wait upon you down?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir <hi>Ruſ.</hi>
+                     </speaker>
+                     <p>I had rather you ſhou'd wait upon me up, Sir, a good Bed
+in my Country is worth ten Suppers; but be-dad, I muſt not tell my
+Miſtreſs ſo till I am her Maſter. Come along.</p>
+                  </sp>
+                  <sp>
+                     <speaker>VVil.</speaker>
+                     <p>We wait upon you Sir.</p>
+                  </sp>
+                  <stage>Exeunt omnes.</stage>
+               </div>
+            </div>
+            <div n="4" type="act">
+               <head>ACT IV.</head>
+               <div n="1" type="scene">
+                  <head>SCENE I.</head>
+                  <stage>
+                     <hi>Lady</hi> Young Loves <hi>Houſe.</hi>
+                  </stage>
+                  <stage>
+                     <hi>The Scene opens, and diſcovers Lady</hi> Young Love,
+Marina, <hi>Sir</hi> Amorous Courtall, Wilmore, Wildman, Orinda, Belira.
+<hi>Song and Entertain<g ref="char:EOLhyphen"/>ment of Dancing.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>L. <hi>Y. L.</hi>
+                     </speaker>
+                     <p>WHere's Sir <hi>Ruſtick,</hi> that he has not honoured us
+with his Company?</p>
+                  </sp>
+                  <sp>
+                     <speaker>VVil.</speaker>
+                     <p>I left him taking a Grace-Cup with your Ladyſhips
+Chaplain. Mr. <hi>Prieſt-Craft</hi> will be too hard for him, they are ſo
+uſed to their Sanctified Wine they can ſwallow a large ſhare of our
+unhallowed Juice of the Grape. Be pleaſed to know my Friend, Sir <hi>Amorous
+Court<g ref="char:EOLhyphen"/>all.</hi>
+                     </p>
+                  </sp>
+                  <stage>
+                     <hi>Exit after</hi> Marina.</stage>
+                  <sp>
+                     <speaker>L. <hi>Y. L.</hi>
+                     </speaker>
+                     <p>As ſuch I muſt ever value and eſteem him.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir <hi>Am.</hi>
+                     </speaker>
+                     <p>Your Ladyſhip<hi>'s</hi> moſt Obedient Servant; let me
+Expire, if ever I ſaw any thing ſo taking as your Ladyſhip<hi>'s</hi>
+Civility.</p>
+                  </sp>
+                  <sp>
+                     <speaker>L. <hi>Y. L.</hi>
+                     </speaker>
+                     <p>Lard Sir <hi>Amorous!</hi> Do you conſider whoſe in the
+Company? Theſe young Ladies will have reaſon to Quarrel at your Judgment,
+or rather I ſhou'd be diſpleaſed at your inſincerity.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir <hi>Am.</hi>
+                     </speaker>
+                     <p>Let me expire Madam, if ever I ſaw any thing ſo ingaging
+as your Air. O that Dreſs, that Dreſs Madam! The Devil take me if the
+Drawing Room in all its Birth-night finery, can ſhew us any thing equal to
+it.</p>
+                  </sp>
+                  <sp>
+                     <speaker>L. <hi>Y. L.</hi>
+                     </speaker>
+                     <p>I wiſh I had but as good a Title to the reſt of your
+Com<g ref="char:EOLhyphen"/>mendations; but time was, when they might have paſſed upon me with
+leſs injuſtice.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir <hi>Am.</hi>
+                     </speaker>
+                     <p>Be-gad Madam, no time like the preſent: The Sun is not in
+his glory till he is mounted to the Meridian, let me dye; if I can ima<g ref="char:EOLhyphen"/>gine
+your ſelf, cou'd ever exceed your ſelf.</p>
+                  </sp>
+                  <pb n="24" facs="tcp:51767:19"/>
+                  <sp>
+                     <speaker>L. <hi>Y. L.</hi>
+                     </speaker>
+                     <p>Lard, Sir <hi>Amorous,</hi> your'e extream Courtly! How
+unfortunate have I bin till now, in wanting your Acquaintance! I never had ſo
+ſud<g ref="char:EOLhyphen"/>den an eſteem for any one. O! I Love a well bred Man, in my Soul
+— Good Breeding— There's no Charm exceeds it. Pray Sir
+<hi>Amorous</hi> have you not bin abroad?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir <hi>Am.</hi>
+                     </speaker>
+                     <p>Yes Madam, I have fetch't the Tour of all the Courts in
+<hi>Italy,</hi> made ſome ſmall reſidence in <hi>Spain,</hi> but their
+Gravity diſguſted me, and therefore made haſte to paſs into
+<hi>France,</hi> which had every thing that a well bred Gentleman cou'd
+deſire, either to Inſtruct or Entertain.</p>
+                  </sp>
+                  <sp>
+                     <speaker>L. <hi>Y. L.</hi>
+                     </speaker>
+                     <p>Lard, 'tis ſtrange! I durſt have ſworn that very thing
+by your Air, your janty, way of Dreſs, your Perriwig. Oh Jeſu! How
+ra<g ref="char:EOLhyphen"/>viſhing the Curls fall to cover your Face, and leave us almoſt nothing
+beſides to Contemplate. Ah! how far you exceed all that ever I ſaw in the
+Art of Powdering. <hi>Belira,</hi> don't you think Sir <hi>Amorous</hi>
+Dreſſes extreamly well?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Bel.</speaker>
+                     <p>Undoubtedly, Sir <hi>Amorous,</hi> I beg your Pardon I did
+not ſee you ſooner— Heigh, this is Gallantry indeed! What a new
+Dreſs!</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wild.</speaker>
+                     <p>The Devil take thy Foppery; was it for this, thou madeſt
+us ſtay for thee?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir <hi>Am.</hi>
+                     </speaker>
+                     <p>I had a Misfortune, juſt as I was croſſing to my
+Lodging, a filthy Carman daſh't me moſt intolerably, a juſt reward for
+being on foot in the dirty Street; I was forc'd to change my Cloaths before I
+was fit for this ſhining Aſſembly.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Orin.</speaker>
+                     <p>Sir <hi>Amorous,</hi> your moſt devoted, Admirer—
+Lard, my Lady <hi>Young Love,</hi> did you ever ſee any <hi>Steenkirk</hi>
+have that Air? Never cou'd Madam, the Princeſs <hi>de Conty,</hi> have hoped
+a Copy, ſo tranſce<gap reason="illegible" resp="#OXF" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>ng
+the Original.</p>
+                  </sp>
+                  <sp>
+                     <speaker>L. <hi>Y. L.</hi>
+                     </speaker>
+                     <p>'Tis all of a Piece, all Sir <hi>Amorous,</hi> in a word;
+all that can be named, the fine Gentleman, the Courtier, the Something beyond
+all, the Modern expreſſive word of Beau.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir <hi>Am.</hi>
+                     </speaker>
+                     <p>Let me expire, if your Ladyſhip has not the beſt
+Judgment. is not my Sword-knot extreamly fine and juſt?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Orin.</speaker>
+                     <p>O, of a moſt raviſhing length— What is Faſhion,
+for well bred People, If, as Mr. <hi>Bays</hi> ſays, we don't top our
+parts?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wild.</speaker>
+                     <p>Your Ladyſhip<hi>'s</hi> unacquainted with one Sir of
+<hi>Amorou</hi>'s Excellen<g ref="char:EOLhyphen"/>cies; he Dances to a Miracle, and carried it from
+all the Quality at the laſt Court Ball.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir <hi>Am.</hi>
+                     </speaker>
+                     <p>A Corant or Minuet, Madam, I am no higher Dancer: Will your
+Ladyſhip do me the Honour of a Minuet?</p>
+                  </sp>
+                  <sp>
+                     <speaker>L. <hi>Y. L.</hi>
+                     </speaker>
+                     <p>Sir <hi>Amorous,</hi> I muſt beg your Pardon, if I ſhare
+the Dance, I ſhall loſe the entire Proſpect of your Perſon;
+<hi>Belira,</hi> if ſhe pleaſes ſhall oblige us.</p>
+                  </sp>
+                  <sp>
+                     <speaker>VVild.</speaker>
+                     <p>Nay, be-gad Madam, you ſhan't go till Sir <hi>Amorous</hi>
+has done with you.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Bel.</speaker>
+                     <p>Eternal Impertinence, they are both miſſing, and
+undoubtedly <pb n="25" facs="tcp:51767:19"/>together. Sir <hi>Amorous,</hi> I'm not in
+Humour, and ſhall make but an ill Figure, <hi>Orinda</hi> will do much
+better.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir <hi>Am.</hi>
+                     </speaker>
+                     <p>Let my be nothing, Madam, if ſhe has not ten times more
+Chagrin in her Looks than your Ladyſhip. I muſt not be refuſed.</p>
+                  </sp>
+                  <sp>
+                     <speaker>L. <hi>Y. L.</hi>
+                     </speaker>
+                     <p>Sir <hi>Amorous</hi> Dances in Perfection.</p>
+                  </sp>
+                  <stage>Dance.</stage>
+                  <sp>
+                     <speaker>VVild.</speaker>
+                     <p>I told your Ladyſhip his Talent, I was ſure you wou'd
+not find me in a miſtake.</p>
+                  </sp>
+                  <stage>
+                     <hi>The Dance done,</hi> Belira <hi>goes out.</hi> Wildman
+<hi>follow her.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Orin.</speaker>
+                     <p>So ſlighting, ſhe has Debauch'd him from me. O I can't
+hold my Muſe! Muſe go Lament the Misfortune.</p>
+                     <lg>
+                        <l>
+                           <hi>For to Love is Noble frailty; but Poor ſin,</hi>
+                        </l>
+                        <l>
+                           <hi>When once we fall to Love, unlov'd again.</hi>
+                        </l>
+                     </lg>
+                  </sp>
+                  <stage>
+                     <hi>Exit</hi> Orinda.</stage>
+                  <sp>
+                     <speaker>Sir <hi>Am.</hi>
+                     </speaker>
+                     <p>O your Ladyſhip flatters me, or let me dye! But to ſay
+what has bin ſaid before, Blows from hands ſo ſoft, who wou'd not
+bear!</p>
+                  </sp>
+                  <sp>
+                     <speaker>L. <hi>Y. L.</hi>
+                     </speaker>
+                     <p>Sir <hi>Amorous,</hi> you are a Judge of Decorum and
+Decency; what ſay you to walking in, and ſeeing the Bridall Bed?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir <hi>Am.</hi>
+                     </speaker>
+                     <p>I'll follow your Ladyſhip through the World; but I ſhall
+expire in ſeeing the place where my Happineſs is to be Sacrificed.</p>
+                  </sp>
+                  <sp>
+                     <speaker>L. <hi>Y. L.</hi>
+                     </speaker>
+                     <p>O Jeſu! 'Tis a thouſand pities ſo pretty a young
+Gentle<g ref="char:EOLhyphen"/>man ſhou'd have an uneaſie Moment.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div type="scene">
+                  <head>
+                     <hi>SCENE</hi> Changes to the Garden.</head>
+                  <stage>Wilmore, <hi>and</hi> Marina.</stage>
+                  <sp>
+                     <speaker>Mar.</speaker>
+                     <p>GRant, I diſpenſe with that one Form of our Sex,
+disbeliev<g ref="char:EOLhyphen"/>ing a Lover, when he firſt tells us he is ſuch; how can you avoid
+my Mother, or delay her expectations? <hi>Belira,</hi> whoſe reaſons I
+could not comprehend before; will do all that's neceſſary to ruine our
+intelligence.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wil.</speaker>
+                     <p>If nothing elſe can ſecure me, your Denial muſt.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mar.</speaker>
+                     <p>Twelve Thouſand Pounds is a Forfeiture too great to oblige
+an Enemy with. I hear <hi>Belira</hi>'s voice, ſhe muſt not ſee us
+together.</p>
+                  </sp>
+                  <stage>Exit Marina.</stage>
+                  <stage>
+                     <hi>Enter</hi> Belira, <hi>followed by</hi>
+Wildman.</stage>
+                  <sp>
+                     <speaker>Bel.</speaker>
+                     <p>But why do you follow me?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wild.</speaker>
+                     <p>But why do you fly me?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Bel.</speaker>
+                     <p>
+                        <hi>Marina</hi> ſhot that way. I ſee <hi>VVilmore</hi>
+at the bottom of the Walk, I have buſineſs with him; oblige me, and leave
+us together.</p>
+                  </sp>
+                  <sp>
+                     <speaker>VVild.</speaker>
+                     <p>You Command me.</p>
+                  </sp>
+                  <stage>
+                     <hi>Exit.</hi> Wildman.</stage>
+                  <stage>[Wilmore <hi>comes forward.</hi>]</stage>
+                  <sp>
+                     <speaker>VVil.</speaker>
+                     <p>Here ſo late <hi>Belira?</hi>
+                     </p>
+                  </sp>
+                  <pb n="26" facs="tcp:51767:20"/>
+                  <sp>
+                     <speaker>Bel..</speaker>
+                     <p>I come in ſearch of you, the Bride expects you.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wil.</speaker>
+                     <p>To Night! It muſt not be.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Bel.</speaker>
+                     <p>The ſame thing as to Morrow, the ſooner 'tis over the
+better; for in theſe caſes our fears are the worſt part of our
+puniſhment. Was not <hi>Marina</hi> with you? ſhe is wanted. Sir
+<hi>Ruſtick</hi> has drank himſelf in<g ref="char:EOLhyphen"/>to a Matrimonial Temper, and Mr.
+<hi>Prieſt-Craft</hi> Swears twelve at Night, is as Canonical as that at
+Noon.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wil.</speaker>
+                     <p>
+                        <hi>Belira,</hi> have you Loved me!</p>
+                  </sp>
+                  <sp>
+                     <speaker>Bel.</speaker>
+                     <p>Has not my Ruin told you?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wil.</speaker>
+                     <p>Then do you Love me?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Bel.</speaker>
+                     <p>Yes, to ſee you happy— But the Mask is off, and thou
+canſt Cheat no more, and I no more believe.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wil.</speaker>
+                     <p>You never Loved, but now abhor me.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Bel.</speaker>
+                     <p>You reproach me with what I wou'd be; do not, do not rouze
+the Woman in me, I wou'd be Calm to Night and ſee you Married.</p>
+                  </sp>
+                  <sp>
+                     <speaker>VVil.</speaker>
+                     <p>Rather ſee me Buried.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Bel.</speaker>
+                     <p>Perhaps ſo— Cou'd the remembrance of my Wrongs but
+ſleep with thee, I wou'd not Envy thee a quiet Grave.</p>
+                  </sp>
+                  <sp>
+                     <speaker>VVil.</speaker>
+                     <p>Farewel, we part for ever, I'll leave the Town this
+Minute.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Bel.</speaker>
+                     <p>At leaſt, Sir, if you will not Marry your ſelf, but
+unkindly leave your Bride thus in the longing Moment; do your Father the honour
+to grace his Marriage.</p>
+                  </sp>
+                  <sp>
+                     <speaker>VVil.</speaker>
+                     <p>What have I done, that you ſhou'd wiſh to make me
+Wretch'd?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Bel.</speaker>
+                     <p>What haſt thou left undone to make me ſuch?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wil.</speaker>
+                     <p>Your Reputation yet ſtands fair, and uleſs your own
+Indiſcre<g ref="char:EOLhyphen"/>tion betrays you the Secret ſhall be ſuch, with me for ever.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Bel.</speaker>
+                     <p>But thy heart, Traytor, thy perjur'd Heart; tell me, how
+ſhall I get it back?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wil.</speaker>
+                     <p>Never this way, I aſſure you.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Bel.</speaker>
+                     <p>'Tis given for gone then— Go— Live as Wretch'd
+as I can make you, I'll think no more upon you.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wil.</speaker>
+                     <p>Where, Madam, are you going?</p>
+                     <stage>going.</stage>
+                  </sp>
+                  <sp>
+                     <speaker>Bel.</speaker>
+                     <p>To a Wedding, Sir, <hi>Marina</hi>'s Wedding; you ſay we
+muſt not Dance at yours.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wil.</speaker>
+                     <p>Rather of the two <hi>Belira,</hi> but why to Night?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Bel.</speaker>
+                     <p>All Bridgrooms are not as backward as your ſelf; your
+Father has the ſtart of you, in deſire as well as years, he is impatient of
+his Happineſs.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wil.</speaker>
+                     <p>You are Peeviſh <hi>Belira;</hi> does your Love make you
+Jealous?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Bel.</speaker>
+                     <p>I have none, the <hi>Moor</hi> has taught me better; no
+longer doubt<g ref="char:EOLhyphen"/>ing, away at once with Love and Jealouſie.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wil.</speaker>
+                     <p>Then 'tis Spite diſturbs you: In what have I deſerved
+it?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Bel.</speaker>
+                     <p>Look in thy falſe perfidious Heart, and take my Anſwer
+thence.</p>
+                  </sp>
+                  <pb n="27" facs="tcp:51767:20"/>
+                  <sp>
+                     <speaker>Wil.</speaker>
+                     <p>That ſpeaks of nothing you can quarrel with.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Bel.</speaker>
+                     <p>Then I will ſtay and argue with thee, how often haſt
+thou told, thou coud'ſt for ever Love me?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wil.</speaker>
+                     <p>I told you that I cou'd, not that I wou'd.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Bel.</speaker>
+                     <p>Poor Caviller, thoſe who can jeſt with Oaths, can play
+with Words— You'l come after and wiſh the Bride Joy.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wil.</speaker>
+                     <p>We muſt not part thus, you were not uſed to fly my
+Arms.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Bel.</speaker>
+                     <p>By all that's good, he has got the ſorry cunning of our
+Sex; juſt ſo does a Wife when her Husband has caught her falſe, the
+gilting Creature cries, Do you believe it Spouſe? you do not uſe to be ſo
+un<g ref="char:EOLhyphen"/>kind— Ha, ha, ha— Let me Laugh, tho' 'tis maliciouſly; go on,
+I'm in the Vein of Audience; let me hear ſome diſagreeable Truths, and how
+well thou canſt turn Woman; <hi>Marina</hi> is at ſtake before you, do it
+handſomely; I wou'd be fortified in my Averſion, and have my hate
+implacable.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wil.</speaker>
+                     <p>'Tis Barbarous to inſult, where you ſhou'd rather
+pity.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Bel.</speaker>
+                     <p>I do, let all the World be judge elſe; nay, do more than
+Pity, I wou'd prevent your Ruin, and ſtop the Paſſage up to your undoing,
+wou'd ſave you from the Ills, nay, Scorns of Poverty, keep your Friends
+ſuch, and put it in your Power to be one by ſtill Preſerving you: The
+Worlds opinion, who judge of Merit but by Fortunes Favours.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wil.</speaker>
+                     <p>We know the Extent of your Generoſity: But ſerve me as I
+wou'd be ſerv'd, <hi>Belira.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Bel.</speaker>
+                     <p>I thought this was your way: I miſtook you for him that
+was to Marry my Lady <hi>Young Love</hi>— But I'll go look for
+certainties within.</p>
+                     <stage>Going.</stage>
+                  </sp>
+                  <sp>
+                     <speaker>Wil.</speaker>
+                     <p>Come back <hi>Belira,</hi> 'tis my laſt Call: I wou'd
+ſatisfie thy Wo<g ref="char:EOLhyphen"/>maniſh Revenge, and let thee ſee me Curſt by any other
+way than Fa<g ref="char:EOLhyphen"/>tal Marriage— Take my Sword— Thy Malice can ſupply
+thy want of uſe, deſpight can furniſh ſtrength, and too often thou
+haſt found the way to my unhappy Heart to miſs it now.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Bel.</speaker>
+                     <p>Ha, ha, ha, in Love to dying! By all that's good, turn'd
+<hi>Hero:</hi> Your Miſtreſs, Sir, is much obliged— Keep your Sword,
+it may be a Fortune better worth than all your Fathers Lands; there's Wars
+abroad, you may employ it in, 'twill keep your Wife from wanting here at
+Home.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wil.</speaker>
+                     <p>Am I indeed your Scorn, Proud, Fantaſtick Woman; thy
+liking was foul Luſt; not Love: That gentle Name brings Happi<g ref="char:EOLhyphen"/>neſs, but
+thou— Let me not think upon thee, for fear it force my Tongue to
+ſomething worſe, than ſhou'd be ſaid of Ladies; I've ſerved it
+ſeems, as long as you cou'd like, and now you chuſe another.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Bel.</speaker>
+                     <p>Wou'd it were come to that, I wou'd exchange thee, for 
+<pb n="28" facs="tcp:51767:21"/>the laſt of Men, and think the Bargain Cheap, wou'd part
+with all that goodly Form, for honeſt Uglineſs, and think it fairer; thy
+Youth for Age, and Doat upon his Doatage— So in return I found but Truth,
+mark well that word, that word has Charms thou never kneweſt, and which
+out-weighs thine.</p>
+                  </sp>
+                  <sp>
+                     <speaker>VVil.</speaker>
+                     <p>
+                        <hi>Belira,</hi> thou haſt power to read my Soul; thy
+Magick Spells are irreſiſtable. How haſt thou found this Failing in my
+Vertue, which I not knowing of, my Wants cou'd never miſs till now?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Bel.</speaker>
+                     <p>Thank my Wit, Natures beſt Gift— I've ſeen your
+ſhunting poor deſigning Arts, to wave this Marriage and promote another.
+Your care too, of <hi>Marina</hi>'s Fortune falſly guilded with the weak
+pretence of Generoſity; 'twas not doubled thick enough for me: But becauſe
+Doubts never ſhou'd condemn the Man I Loved, I wou'd not ſeem to doubt till
+I was certain; therefore no more diſſembling, 'tis vain, <hi>Marina</hi>
+never ſhall be yours; and if you cou'd not think it an unhappineſs, I fain
+wou'd keep you mine.</p>
+                  </sp>
+                  <sp>
+                     <speaker>VVil.</speaker>
+                     <p>Give me this Night to think in, I'll promiſe nothing, but
+this: I'm Grateful where I am obliged.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Bel.</speaker>
+                     <p>To ſhew your Power, I will; my Lady <hi>Young Love</hi>
+through my perſuaſion deſigned this the Marriage Night; I'll excuſe you
+to her, but not one word or thought of <hi>Marina,</hi> for in that Moment
+ſhe ſhall be beſtowed upon another; I wou'd divide the World, rather than
+you ſhou'd meet; I hope to Morrow, we may give you joy; this Night I find but
+little.</p>
+                  </sp>
+                  <stage>
+                     <hi>Exit</hi> Belira.</stage>
+                  <sp>
+                     <speaker>Wil.</speaker>
+                     <p>Leſs thou haſt left behind, O the curſe of Lewdneſs!
+What Wo<g ref="char:EOLhyphen"/>man<hi>'s</hi> Fair after we find her Faulty? What Lady Innocent, when
+no longer Chaſte? Or who ſo vain to hope for Honour, or for Pity from that
+Soul who wants it for her ſelf?</p>
+                  </sp>
+                  <stage>
+                     <hi>Enter</hi> Wildman.</stage>
+                  <sp>
+                     <speaker>Wild</speaker>
+                     <p>What I hear 'tis deferrd, there's no hopes of Poſſet.
+<hi>Be<g ref="char:EOLhyphen"/>
+                           <gap reason="illegible" resp="#OXF" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ria</hi> has
+diſſmiſs'd me till to Morrow, ſhe's gone to your Bride; by this time
+Sir <hi>Amorous</hi> has ſupplanted you, he is ſhut up with her, and has
+impudence enough to bid fair for it.</p>
+                  </sp>
+                  <sp>
+                     <speaker>VVil.</speaker>
+                     <p>They talk of Eating againſt ones Stomach, but no Sur<g ref="char:EOLhyphen"/>feit
+is ſo nauſeous, as what I'm in danger of, <hi>Belira</hi> catch'd me in the
+A<gap reason="illegible" resp="#OXF" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ion; and Faith, a ſinner
+muſt have more impudence than I, who
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> deny matter of Fact.</p>
+                  </sp>
+                  <pb n="29" facs="tcp:51767:21"/>
+                  <sp>
+                     <speaker>Wild.</speaker>
+                     <p>Be gad, I have Pimpt to a fair end: What to let a Woman
+out<g ref="char:EOLhyphen"/>wit thee? How cou'd you once think of being ſincere to one, whoſe
+Intereſt runs counter to yours? I would have diſſembled as much Love as I
+had Averſion; nay Counterfeited my firſt deſires, and ſuffered her, to
+believe ſhe had preſerved the Conqueſt of me now, that I might have
+Triumphed over her all my life after.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wil.</speaker>
+                     <p>Very well, I am railed at on all ſides.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wild.</speaker>
+                     <p>Thou haſt this Moment in thy Face, all the Mortification
+of poor Lenten Penitents, and lookſt more akin to the Spirit than the
+Fleſh. I believe thou art not in the condition of Wedlock. Confeſs your
+Misfortune to my Lady <hi>Young-Love,</hi> I know no reaſon, why a Man
+ſhou'd pretend falſe Courage, when by it he runs himſelf into an
+inconveniency, he might have otherways avoided.</p>
+                  </sp>
+                  <stage>
+                     <hi>Enter Sir</hi> Amorous.</stage>
+                  <sp>
+                     <speaker>Am.</speaker>
+                     <p>Faith, if lying, diſſembling and flattering, can
+deſerve her, I have done it. After we parted, I underwent the Mortification
+of an Ar<g ref="char:EOLhyphen"/>reſt, which has the better fitted me for that of Matrimony; 'twas
+ne<g ref="char:EOLhyphen"/>ceſſary for me, to have juſt got out of the Baliffs hands, to be able
+to go through with her, or elſe let me expire, if I cou'd have done it.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wild.</speaker>
+                     <p>But what's the Conſequence, Sir <hi>Amorous?</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir <hi>Am.</hi>
+                     </speaker>
+                     <p>No more, than deferring the Marriage. The Duce take me if I
+don't think it Exceeds all <hi>Hercules</hi>'s Labours, to be able to
+perſwade a Widow to lye alone, when ſhe is reſolved to have a
+Bed-fellow.</p>
+                  </sp>
+                  <stage>
+                     <hi>Enter</hi> Ready.</stage>
+                  <sp>
+                     <speaker>Wild.</speaker>
+                     <p>The next Affair ſhall be reſolv'd in your Chamber, where
+I'll wait Sir <hi>Amorous</hi> and you in a Minute.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wil.</speaker>
+                     <p>Nay if you wou'd be private, I'm diſcreet.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir <hi>Am.</hi>
+                     </speaker>
+                     <p>Let me be nothing, if he has not ſome melting Billet, I
+know it by his very Air. Good Fortune to thee <hi>Charles.</hi>
+                     </p>
+                  </sp>
+                  <stage>
+                     <hi>Exeunt Sir</hi> Amorous, Wil.</stage>
+                  <sp>
+                     <speaker>Wild.</speaker>
+                     <p>
+                        <hi>Reads,</hi> Hum! to Morrow Morning like a Phiſician.
+<hi>Ready,</hi> where had you this Letter?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ready.</speaker>
+                     <p>Mrs. <hi>Phoebe</hi> brought it to your Lodgings. She ſays
+her Maſter has bin at the Fortune-tellers, to Enquire, whether your Honour
+had made him a Cuckold.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wild.</speaker>
+                     <p>I am ſorry, the Devil cou'd not anſwer him in the
+Affirma<g ref="char:EOLhyphen"/>tive: She writes me word that <hi>Symrna</hi>'s ſick with his fright,
+and that I may paſs upon him for a Phyſician; however, I believe my skill
+lyes moſt <hi>Olivias</hi> way. <hi>Ready,</hi> go and knock up my
+Apothecary; borrow his Velvet Coat with the great Gold Buttons. A few hard
+words, of Plebotomy, Purgative, Laxative, and I ſhall be ſet up in my
+Profeſſion, <pb n="30" facs="tcp:51767:22"/>and look like any Collegiate Doctor of them
+all— Why then, the Devil take me if I don't go— Now the matter's
+brought to Perfecti<g ref="char:EOLhyphen"/>on, I'll not fall aſleep over the Brazen Head, when it
+ſhou'd anſwer me. Yes.</p>
+                     <lg>
+                        <l>I'll watch the falling of the Golden Shower,</l>
+                        <l>And reap my Harveſt in the ſhining Hour.</l>
+                     </lg>
+                  </sp>
+                  <stage>Exeunt omnes.</stage>
+               </div>
+            </div>
+            <div n="5" type="act">
+               <head>ACT V.</head>
+               <div n="1" type="scene">
+                  <head>SCENE I.</head>
+                  <stage>Olivia<hi>'s Chamber.</hi> Olivia <hi>and</hi>
+Phoebe.</stage>
+                  <sp>
+                     <speaker>Phoe.</speaker>
+                     <p>BY my Troth, Madam, if all Ladies ſhould follow your
+Exam<g ref="char:EOLhyphen"/>ple, Solitude wou'd make them ſoon turn honeſt; and then where were
+the Employment for Wit and Scandal? You need not be in ſuch a Terror of my
+Maſter, he ſleeps as ſound as a Top; and ſhould Mr. <hi>Wildman</hi>
+come in the Interim, we might introduce him to your Ladyſhip without his
+being the wiſer.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Oliv.</speaker>
+                     <p>I hear knocking at the Gate; go ſee if your Maſter be
+awake. Why do I tremble thus? I neither diſtruſt my Vertue, nor his Care of
+it. Yet a ſecret Guilt condemns me, becauſe I exceed in Form. If the Shadow
+of an Injury gives ſuch Uneaſineſs, what do they ſuffer by Remorſe
+who actually offend?</p>
+                  </sp>
+                  <stage>
+                     <hi>Enter</hi> Wildman <hi>like a Phyſician,</hi>
+Phoebe.</stage>
+                  <sp>
+                     <speaker>Wild.</speaker>
+                     <p>My Life! my charming, bright <hi>Olivia!</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Oliv.</speaker>
+                     <p>Alas, Mr. <hi>Wildman,</hi> theſe Tranſports are not my
+Due; you know I am honeſt; neither my Husband nor you can make me
+other<g ref="char:EOLhyphen"/>wiſe: Therefore urged by your Thouſand Importunities, I have in<g ref="char:EOLhyphen"/>deed
+ſent for you, but 'tis to forbid any more <hi>Billet Douxes,</hi> not one
+Love Letter more, as you hope to have all thoſe kindly received which you
+ſhall diſpatch to your next Miſtreſs.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wild.</speaker>
+                     <p>You amaze me, Madam!</p>
+                  </sp>
+                  <sp>
+                     <speaker>Oliv.</speaker>
+                     <p>Secondly, no Corrupting Preſents to my Woman; no
+at<g ref="char:EOLhyphen"/>tempting her weak Vertue, in hopes to prevail upon her Ladies; for the
+firſt moment I ſuſpect it, I ſhall be offended at you, and ſend her
+packing, to carry you the News of it.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Phoe.</speaker>
+                     <p>I was afraid I ſhould ſuffer as an Accomplice.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Oliv.</speaker>
+                     <p>Thirdly, no extravagant Civilities to Mr. <hi>Smyrna;</hi>
+no re<g ref="char:EOLhyphen"/>turning cold Affronts with fond Careſſes; no carrying him to the 
+<pb n="31" facs="tcp:51767:22"/>Tavern, and paying his Club there, as if that were to be
+the Price of his Wife at home; nor vain Hopes of having the Proverb of your
+ſide, <hi>That Cuckolds are kind to thoſe who make them ſo.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Wild.</speaker>
+                     <p>'Twas ſomething indeed, he was always ſo damn'd jealous
+of me; had he had but the Title, I wou'd not have queſtioned the Bene<g ref="char:EOLhyphen"/>fit of
+the Proverb, his Horns would have blinded him.</p>
+                  </sp>
+                  <stage>
+                     <hi>Enter Doctor</hi> Pulſe.</stage>
+                  <sp>
+                     <speaker>Pulſe.</speaker>
+                     <p>Madam, a good Morning to you.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Oliv.</speaker>
+                     <p>My Husband's Phyſician unſent for! What's to be
+done?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Pulſe.</speaker>
+                     <p>I have been at Mr. <hi>Simpler</hi>'s your Apothecary, who
+told me Mr. <hi>Smyrna</hi> was taken dangerouſly ill; whereupon I thought it
+my Duty to viſit him: But, bleſſed be God, he's in a fine breathing
+Sweat: When he has taken what I ſhall preſcribe, I hope he may be
+better.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Oliv.</speaker>
+                     <p>Indeed, Dr. <hi>Pulſe,</hi> he has had a very bad
+Night.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Pulſe.</speaker>
+                     <p>By his Habit, I ſhould gueſs this Gentleman to be of the
+Fa<g ref="char:EOLhyphen"/>culty. Pray, Sir, if it may be without Offence, what are you call'd? I do
+not believe you to be of the Colledge; I never ſaw your Face be<g ref="char:EOLhyphen"/>fore, to my
+knowledge.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wild.</speaker>
+                     <p>My Buſineſs, Sir, is with my Patients, and not to
+anſwer im<g ref="char:EOLhyphen"/>pertinent Queſtions.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Pulſe.</speaker>
+                     <p>Cry you mercy, good <hi>Mr. Mountebank;</hi> a Stage, I
+ſuppoſe, is your Occupation. Madam, ſince you have employed this Quack,
+e'en make uſe of him for good and all. A lawful Conſultation I ſhould not
+have refuſed; and ſo much good may do you with your <hi>Merry
+Andrew.</hi>
+                     </p>
+                  </sp>
+                  <stage>
+                     <hi>Exit</hi> Pulſe.</stage>
+                  <sp>
+                     <speaker>Oliv.</speaker>
+                     <p>I'm glad he's gone. Mr. <hi>Wildman,</hi> you know your
+Doom; we muſt part upon't.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wild.</speaker>
+                     <p>Prithee, dear <hi>Olivia,</hi> have more good Nature: Do I
+deſerve no Reward for all my unwearied Hours of Love? No ſoft
+Compaſſion due for all I have ſuffer'd? This is mortifying one beyond any
+thing.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Oliv.</speaker>
+                     <p>They ſay Revenge is natural. For your Comfort then, you
+have yours upon me, ſince I can't puniſh you, but I muſt ſhare in't my
+ſelf.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wild.</speaker>
+                     <p>Were that true, <hi>Olivia,</hi> you cou'd not uſe me
+thus. That Kindneſs you once flatter'd me with, tho' it were but a Name, has
+now loſt that. You tell me, I am to be ſacrific'd to your Vertue— but
+I'm afraid 'tis to ſome more happy Lover.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Oliv.</speaker>
+                     <p>Why, I have never enjoy'd you. If Love were my Buſineſs,
+might I not find it with you? I never heard before, that any thing beſides
+Poſſeſſion brought Satiety.</p>
+                  </sp>
+                  <pb n="32" facs="tcp:51767:23"/>
+                  <sp>
+                     <speaker>Wil.</speaker>
+                     <p>Did you never ſtay ſo long for your Dinner, that your A
+pe<g ref="char:EOLhyphen"/>tite was loſt when you came to it? methinks I ſee you reaſoning with
+it, then ſurveying me— And crying 'twon't do, it this the Treat I
+long'd for?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Oliv.</speaker>
+                     <p>Your compariſon might hold indeed, if you cou'd prove I
+had ſtay'd my Stomach before I came to Dinner: But my Husband<hi>'s</hi> no
+ſuch inviting Diſh, and I can aſſure you, too provident, to allow me
+much variety.</p>
+                  </sp>
+                  <stage>
+                     <hi>Enter</hi> Smyrna <hi>ſick in his Night-Gown, led
+by</hi> Pulſe.</stage>
+                  <sp>
+                     <speaker>Pulſe.</speaker>
+                     <p>He's a meer Quack, and ſo you'l ſay when you ſee him;
+if you make uſe of him, he'l certainly be the Death of you.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Smyr.</speaker>
+                     <p>Ay Doctor <hi>Pulſe,</hi> not unlikely.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Oliv.</speaker>
+                     <p>Oh Heavens defend me, here's my Husband! Lord, Mr.
+<hi>Smyr<g ref="char:EOLhyphen"/>na</hi> you have affrighted me out of my Wits, my very Heart beats in
+my Body. Doctor <hi>Pulſe</hi> ſaid, you were all in a Sweat, and I'm
+afraid you'l catch your Death, by riſing in the Cold.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Smyr.</speaker>
+                     <p>'Twill be very well Miſtreſs, if I find your Heart agree
+with your Tongue. But what Quack have you brought me here— Nay, face
+about Doctor, I don't doubt your Experience, nor Mur<g ref="char:EOLhyphen"/>dering by the Rules of
+Art— Mercy on us— Ay marry Sir, this is like a Wife
+indeed—What, Mr. <hi>Wildman</hi> turned Phyſician! Friend
+<hi>Pulſe,</hi> you need never have troubled your head about this
+buſineſs, my Wife meant to keep this able Doctor to her ſelf; this
+Gentle<g ref="char:EOLhyphen"/>mans deſign lay in ſupplanting me, not you.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wil.</speaker>
+                     <p>Impudence muſt carry me through, 
+<stage>aſide.</stage> Doctor, your Patient is
+certainly Diſtracted, a meer Frenzy has ſeized him— Feel but his
+Pulſe, ay he's fitter for his Bed than any place elſe; I can't commend your
+Judgment in ſuffering him to riſe in this deſperate Condition, let's
+force him back to his Chamber.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Smyr.</speaker>
+                     <p>If I am mad, 'tis horn mad; you'd carry me to my Chamber,
+that you might Iye with my Wife in hers— Pray Doctor <hi>Wild<g ref="char:EOLhyphen"/>man</hi> be
+pleas'd to march, I ſhall be able to wait upon you down, and ſecure the
+Doors after you. Be pleas'd to lead the way without fur<g ref="char:EOLhyphen"/>ther Ceremony— I
+muſt own 'tis uncivil, but I make bold by your own example, for I fear, you
+have bin more ſo than welcome, with a certain Acquaintance of yours.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Oliv.</speaker>
+                     <p>'Tis as I ſay, Doctor, retrieve your blunder, or I am
+loſt.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Pulſe.</speaker>
+                     <p>Never fear it, Madam.</p>
+                     <stage>
+                        <hi>apart to</hi> Pulſe.</stage>
+                  </sp>
+                  <sp>
+                     <speaker>Wild.</speaker>
+                     <p>Brother Doctor, won't you aſſiſt me? The Gentlemans
+unruly, ſee how he ſtruggles. O Sir, if you did but underſtand your own
+good you'd to go Bed, elſe you're a loſt Man.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Smyr.</speaker>
+                     <p>
+                        <hi>Pulſe, Pulſe,</hi> Friend <hi>Pulſe,</hi> I ſay,
+will you let me be murder'd by this Rogue, this Villain <hi>Wildman</hi>—
+I'm almoſt ſtrangl'd, help, <pb n="33" facs="tcp:51767:23"/>help there, I ſay, I
+won't be carried from my Wife— Wife— Wife— Where are you?
+Pray Sir be ſatisfied, and think me Cuckold enough for the firſt time.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Oliv.</speaker>
+                     <p>O dear Husband, be perſwaded and go to Bed, you look
+ſtrangely wild.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Phoe.</speaker>
+                     <p>Ay Maſter, if you did but ſee your ſelf, what an
+altered Man your are; bleſs me one wou'd not know you again.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Smyr.</speaker>
+                     <p>Thanks to honeſt Whoring, Mr. <hi>Wildman</hi>— I
+always thought Horns wou'd bring a ſtrange Alteration.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Pulſe.</speaker>
+                     <p>Good Lord, what a Frenzy is this, to miſtake a Phyſician
+for a Lover— To bed with him, by all means, and let him have ſome
+Cooling Tyſans, and refreſhing Juleps to allay the heat of the Diſtemper,
+perhaps a little ſleep may reſtore him— Your Hand, Maſter
+Doctor.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Smyr.</speaker>
+                     <p>Nay, if you are in the ſame Song too, I muſt be mad
+indeed— When a man is to be made a Cuckold, nothing can prevent it—
+But pray, let Maſter Doctor with the Whoring Countenance be diſ<g ref="char:EOLhyphen"/>miſt.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Phoe.</speaker>
+                     <p>He has never bin well ſince that Rogue of a Fortune-teller
+be<g ref="char:EOLhyphen"/>witch'd him.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Pulſe.</speaker>
+                     <p>Nay, if that be his caſe, it may be beyond our Art,
+Brother; beſt ſend for ſome godly Divine to Pray over him.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Oliv.</speaker>
+                     <p>That ſhall be my Care— God reſtore him, Doctor
+<hi>Pulſe. Phoebe,</hi> lend your Hand, he'l ſtruggle: But we muſt
+prevail, 'tis for his good.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Smyr.</speaker>
+                     <p>What's the Devil in you all? I am no more mad than any of
+you; only a Cuckold, and a little troubled at that Calamity; no further
+Frantick I profeſs.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Pulſe.</speaker>
+                     <p>That's enough, of all Conſcience. In, in with him.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Smyr.</speaker>
+                     <p>Murder, help, Murder, Murder.</p>
+                     <stage>They carry him off ſtrugling.</stage>
+                  </sp>
+                  <stage>
+                     <hi>Re-enter</hi> Wildman.</stage>
+                  <sp>
+                     <speaker>Wild.</speaker>
+                     <p>I have enough of the ſport, and had much rather ſee
+<hi>Olivia</hi> return.</p>
+                  </sp>
+                  <stage>Enter Phoebe.</stage>
+                  <sp>
+                     <speaker>Phoe.</speaker>
+                     <p>My Lady Sir, deſires you would pleaſe to be gone;
+ſhe's reſol<g ref="char:EOLhyphen"/>ved to ſtay by my Maſter for the better quieting of
+him— But don't let this diſhearten you, your affairs ſhall go better
+than they have done, or I'll loſe my Place, and my Reputation too.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wild.</speaker>
+                     <p>No, I'm at length convinc'd, <hi>Olivias</hi> Virtue
+ſhou'd be rather <pb n="34" facs="tcp:51767:24"/>Cheriſhed than Seduced, tho' I ſee
+whoſe ever Title we have to it, we can be no more ſure of Love, than Money;
+'tis not ours till we have it in Poſſeſſion.</p>
+                  </sp>
+                  <stage>Exeunt omnes.</stage>
+               </div>
+               <div n="2" type="scene">
+                  <head>SCENE II.</head>
+                  <stage>
+                     <hi>Lady</hi> Young Loves <hi>Houſe.</hi>
+                  </stage>
+                  <q>
+                     <floatingText xml:lang="eng">
+                        <body>
+                           <div type="song">
+                              <head>SONG <hi>and</hi> MUSICK.</head>
+                              <l>
+                                 <hi>TO Love and all its Sweets adieu,</hi>
+                              </l>
+                              <l>
+                                 <hi>To glittering Hopes, and glowing Fires;</hi>
+                              </l>
+                              <l>
+                                 <hi>To Eyes that Swore ſhe wou'd be true,</hi>
+                              </l>
+                              <l>
+                                 <hi>And yield</hi> Philander <hi>his
+Deſires.</hi>
+                              </l>
+                              <l>
+                                 <hi>Thoſe Dear, thoſe faithleſs perſur'd
+Eyes,</hi>
+                              </l>
+                              <l>
+                                 <hi>Thoſe Fatal, ſweet deluding things,</hi>
+                              </l>
+                              <l>
+                                 <hi>The Shepherd now forgiving Dyes,</hi>
+                              </l>
+                              <l>
+                                 <hi>And dying, mournfully he Sings.</hi>
+                              </l>
+                              <l>
+                                 <hi>Kinder Death, than Cruel ſhe,</hi>
+                              </l>
+                              <l>
+                                 <hi>Haſte, oh haſte to ſet me free.</hi>
+                              </l>
+                           </div>
+                        </body>
+                     </floatingText>
+                  </q>
+                  <stage>
+                     <hi>Enter Sir</hi> Amorous, <hi>who throws down his Hat,
+unbuttons his Coat, croſſes his Arms, hangs down his Head, and walks
+deſpairingly; then enter Lady</hi> Young Love <hi>and</hi> Marina.</stage>
+                  <sp>
+                     <speaker>L. Y. L.</speaker>
+                     <p>They have given us but a Melancholy Song Daughter upon our
+Wedding day. None here but Sir <hi>Amorous!</hi> Lord Sir, what can be the
+reaſon of this diſorder? Jeſu forbid, that ſo handſom a young
+Gentleman, ſhou'd have as much deſpair in his Heart as Perſon—
+<hi>Marina,</hi> go and bid <hi>Isabel</hi> be ſure to mind what I told
+her.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mar.</speaker>
+                     <p>Yes Madam.</p>
+                     <p>Well done Mother, get as large a ſhare of the Sex as you
+can, I'll not ſtay to diſpute your Title.</p>
+                  </sp>
+                  <stage>Exit. Marina.</stage>
+                  <sp>
+                     <speaker>L. Y. L.</speaker>
+                     <p>What don't you know me Sir. <hi>Amorous</hi>— Bleſs
+me, what not anſwer me?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir <hi>Am.</hi>
+                     </speaker>
+                     <p>Too well Madam— I know you as the cauſe of all my
+ills, the glorious cauſe of my undoing.</p>
+                  </sp>
+                  <sp>
+                     <speaker>L. Y. L.</speaker>
+                     <p>Lord, my mind miſgave me when I heard that mournful
+Song.</p>
+                  </sp>
+                  <pb n="35" facs="tcp:51767:24"/>
+                  <sp>
+                     <speaker>Sir <hi>Am.</hi>
+                     </speaker>
+                     <p>I muſt confeſs 'twas dull, unfit for Brides, and cou'd
+but dead your thoughts.</p>
+                  </sp>
+                  <sp>
+                     <speaker>L. Y. L.</speaker>
+                     <p>But Sir <hi>Amorous,</hi> what is the real occaſion of
+this Sadneſs?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir <hi>Am.</hi>
+                     </speaker>
+                     <p>Let me dye, Madam, if your Ladiſhip does not ridicule my
+ſufferings. Have you forgot what I told you laſt Night; that and a
+thou<g ref="char:EOLhyphen"/>ſand times more lyes heavy on my Heart to day; and unleſs you
+re<g ref="char:EOLhyphen"/>ſolve to ſee me dead, you muſt not marry Mr.
+<hi>Wilmore</hi>—</p>
+                     <lg>
+                        <l>He a Wretch inſenſible of all your Charms,</l>
+                        <l>And who ſeeks his Happineſs in anothers Arms.</l>
+                     </lg>
+                  </sp>
+                  <sp>
+                     <speaker>L. Y. L.</speaker>
+                     <p>He Lord, he's the Modeſteſt Gentleman; ſo Civil he
+never preſt for the leaſt Favour, no not for a Kiſs; and that you'l
+ſay's but a ſmall one; but when he cou'd not decently avoid it.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir. <hi>Am.</hi>
+                     </speaker>
+                     <p>A Wretch, is it poſſible Madam, that the Tranſports of
+a Man, when alone, with ſo fine a Woman — Oh Madam! Were it but
+permitted me— But why do I vainly meditate on any thing but Death!</p>
+                  </sp>
+                  <sp>
+                     <speaker>L. Y. L.</speaker>
+                     <p>Death, Heaven forbid: Indeed I am very ſorry, I was not
+ac<g ref="char:EOLhyphen"/>quainted with you, before things came to this extremity — But as to
+Mr. <hi>Wilmore,</hi> he is ſo baſhful, and ſo modeſt, Lord, you wou'd
+not believe any thing elſe in him.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir <hi>Am.</hi>
+                     </speaker>
+                     <p>All that a Rival can ſay, will be ſuſpected: But ſay
+I clear'd it to you, what then ſhall be my reward?</p>
+                  </sp>
+                  <sp>
+                     <speaker>L. Y. L.</speaker>
+                     <p>Indeed I ſhou'd be furiouſly angry to find him ſo cold
+only to me.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir <hi>Am.</hi>
+                     </speaker>
+                     <p>If your Ladyſhip will let me wait upon you to the Garden,
+I'll clear the matter to you.</p>
+                  </sp>
+                  <stage>Exeunt Omnes.</stage>
+               </div>
+               <div type="scene">
+                  <head>
+                     <hi>SCENE</hi> Changes to the Garden.</head>
+                  <stage>Wilmore, Belira, <hi>meets him.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Wil.</speaker>
+                     <p>DO you remember, our laſt Diſcourſe
+<hi>Belira?</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Bel.</speaker>
+                     <p>Can I ever forget any thing where you'r concern'd.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wil.</speaker>
+                     <p>Then I muſt tell you, I'm reſolved to Marry where I
+beſt can like, not for conveniency alone, 'tis ſinful, and you, and I, and
+all muſt live to dye.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Bel.</speaker>
+                     <p>So godly, one wou'd think your Time were come: You have
+forgot ſure, <hi>Marina</hi> is to marry your Father.</p>
+                     <stage>
+                        <hi>Sir</hi> Amorous <hi>and Lady</hi> Young Love
+<hi>appear abſconding.</hi>
+                     </stage>
+                  </sp>
+                  <sp>
+                     <speaker>Wil.</speaker>
+                     <p>She never will <hi>Belira,</hi> therefore if you have Loved,
+ſhew it in this only proof, I ever ask't, and let me marry her.</p>
+                  </sp>
+                  <pb n="36" facs="tcp:51767:25"/>
+                  <sp>
+                     <speaker>Bel.</speaker>
+                     <p>How dare you think the queſtion, much leſs to ask it? I
+only live for you, in hopes of you; and when thoſe hopes are gone, I've done
+with life, the heavy load will not be worth the bearing, the very thought has
+looſn'd it, and I want pow'r to anſwer.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wil.</speaker>
+                     <p>No Tears <hi>Belira,</hi> we will be always Friends, your
+Honour ſhall be ſafe, and you my chiefeſt care.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Bel.</speaker>
+                     <p>What can pay Love, but Love? <hi>Marinas</hi> Arms will make
+you cold to mine; nor can I ſtoop, to ſhare your hurt. O yet conſider!
+e're it be too late, think on the Wreck, the ruin of your Fortune, the flow<g ref="char:EOLhyphen"/>ing
+Tides of Poverty, that ruins all it covers; and laſtly, think on an unhappy
+Wretch, whoſe only fault is deſperate Love of you.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wil.</speaker>
+                     <p>I've thought on all, and nicely weighed the Senſe; the
+conſe<g ref="char:EOLhyphen"/>quence is this, I Love <hi>Marina,</hi> and rather than not marry her,
+wou'd be undone; therefore if you can ſave me 'twill be Noble, and like the
+Love you promiſed.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Bel.</speaker>
+                     <p>What Generoſity canſt thou hope to find, where only
+injuries are given? what ſuffering, tame, deluded Monſter doſt thou think
+me? My Wrongs have waked that Rage, which Wonder had be-calm'd, and I am now
+prepared to daſh thy hopes, and prove thee Traytor to thy Vows and me.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wil.</speaker>
+                     <p>Be wiſe <hi>Belira!</hi> We live not now in thoſe
+Romantick con<g ref="char:EOLhyphen"/>ſtant days, where their firſt Miſtreſs was their laſt.
+I lik'd you once, and ſtill eſteem you, but Vows that are made in Love, are
+writ in ſand: It's impoſſible to recal a Lovers Heart, when once 'tis
+made a Preſent to another; ſhou'd it return, 'twou'd ſooner Love a
+third.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Bel.</speaker>
+                     <p>Thou needſt not ſeek for Arguments to kill my Hopes;
+thus I blow them from me: Farewel for ever, both to thy Love and them; thou
+haſt Lov'd me little, but thou knowſt me leſs: Vengeance is due to thy
+miſtake; I only live to wiſh, and hope to ſee it take your Minion: Love
+her as long as you are uſed to Love a Woman, and then let want of Wealth and
+Liberty purſue you: Be poorly Wretched, and Wretched Poor; and may you hate
+the cauſe as bad as I do Curſe for her ſake, the very name of Woman; yet
+think on me and ſigh for ſuch a Friend — But may no Friend be found,
+till ſcorned at home thou ſeekeſt abroad, ſome Wretched Death
+unknown.</p>
+                     <stage>
+                        <hi>Going to Lady</hi> Young Love, <hi>Sir</hi> Amorous
+<hi>meets her.</hi>
+                     </stage>
+                  </sp>
+                  <sp>
+                     <speaker>L. Y. L.</speaker>
+                     <p>What have I heard and ſeen <hi>Belira?</hi> Is it
+poſſible it ſhou'd be you?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Bel.</speaker>
+                     <p>Villain, haſt thou betray'd me— Madam, I warn you
+from that Traytor <hi>Wilmore,</hi>
+                     </p>
+                  </sp>
+                  <stage>Exit Belira.</stage>
+                  <sp>
+                     <speaker>L. Y. L.</speaker>
+                     <p>
+                        <hi>Mr. Wilmore,</hi> I am ſorry I was ſo long your
+pretence, Sir <hi>Amorous.</hi> This diſcovery has done me mighty Service,
+and I am ſorry I cannot expreſs my Gratitude to you.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wil.</speaker>
+                     <p>I have too juſtly offended your Ladyſhip, ever to hope
+Forgiveneſs: I only beg your Anger may not fall upon <hi>Marina,</hi> ſhe's
+an Innocent cauſe.</p>
+                  </sp>
+                  <pb n="37" facs="tcp:51767:25"/>
+                  <sp>
+                     <speaker>L. Y. L.</speaker>
+                     <p>The Age is quite Debauch'd, Jeſu! who ſhall we truſt
+after this? <hi>Belira</hi> naught, and with modeſt <hi>Mr. Wilmore,</hi> I
+am in ſuch amaze, I can't recover my ſelf.</p>
+                  </sp>
+                  <stage>
+                     <hi>Enter</hi> Wildman <hi>and</hi> Marina.</stage>
+                  <sp>
+                     <speaker>Wild.</speaker>
+                     <p>What's the matter? I met <hi>Belira</hi> in a mighty rage,
+ſhe ran to this Ladies Chamber with a drawn Sword? 'twas lucky I was in the
+way, elſe ſhe had murdered her.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mar.</speaker>
+                     <p>I ſhan't recover the fright this month! <hi>Mr.
+Wildman</hi> has ſaved my life.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wil.</speaker>
+                     <p>He ſhall always command mine for it, but what's become of
+her?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mar.</speaker>
+                     <p>When ſhe ſaw her ſelf Defeated, ſhe ſent for a
+Chair, and went away in it; I have not yet troubled my ſelf to know
+where.</p>
+                  </sp>
+                  <sp>
+                     <speaker>L. <hi>Y. L.</hi>
+                     </speaker>
+                     <p>No 'tis no matter, ſince my Houſe is rid of her. I
+ſhall take care who I entertain a good opinion of again.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wild.</speaker>
+                     <p>Prithee <hi>Wilmore,</hi> no Chagrin. This was my Plot, I
+durſt not truſt thee with it; and therefore adviſed thee to meet her in
+the Garden, I knew thy ſoft Nature, wou'd not ſuffer thee, to Expoſe an
+ill Wo<g ref="char:EOLhyphen"/>man, tho' to make thy ſelf happy in a good.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wil.</speaker>
+                     <p>If you had, 'twou'd never have come to this; my Pity is due
+to an unhappy Woman, who had never bin ſuch, if She had not known me.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wild.</speaker>
+                     <p>You'l make <hi>Marina</hi> Jealous,</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wil.</speaker>
+                     <p>I hope not, ſhe wou'd not have me Barbarous:</p>
+                  </sp>
+                  <stage>
+                     <hi>Enter Sir</hi> Ruſtick Good-heart.</stage>
+                  <sp>
+                     <speaker>Sir <hi>Ruſ.</hi>
+                     </speaker>
+                     <p>Where are ye all? Before <hi>George</hi> the Canonical hour
+will be paſt; yonders the other Young Gentlewoman gone away Diſtracted.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wild.</speaker>
+                     <p>Sir <hi>Ruſtick,</hi> here's a new Scene of Affairs;
+<hi>Marina</hi> Swears, She has more mind to be your Daughter, than your Wife;
+and that 'tis better to Drink Caudle by a young Fellow, than be oblig'd to make
+it for an Old.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir <hi>Ruſ.</hi>
+                     </speaker>
+                     <p>Be-gad, I don't believe a word of this: You are not of his
+mind Sweet-heart, Mr. <hi>Prieſt-Craft</hi> is ready to ſpoil your ſport
+Sir, and begin ours.</p>
+                  </sp>
+                  <sp>
+                     <speaker>L. <hi>Y. L.</hi>
+                     </speaker>
+                     <p>Indeed Sir <hi>Amorous,</hi> you have convinc'd me of the
+reality of your Paſſion, and were it not for the talk of the Town, you
+ſhou'd find me, not ſo inſenſible as you imagine.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir <hi>Am.</hi>
+                     </speaker>
+                     <p>Let me be nothing Madam, if this unexpected Marriage will
+not put them all out of Countenance, and baulk their Spleen; they are prepared
+by Mr. <hi>Wilmore</hi>'s concern for your Daughter, to laugh at your
+Ladyſhip. No Wedding— Let me expire, if it wou'd not be a good way, to
+prevent his refuſal by yours, and before he asks you to make him happy with
+<hi>Marina,</hi> to make me ſo in your ſelf.</p>
+                  </sp>
+                  <pb n="38" facs="tcp:51767:26"/>
+                  <sp>
+                     <speaker>L. <hi>Y. L.</hi>
+                     </speaker>
+                     <p>'Twere a good Jeſt indeed, I think we muſt not ſpoil
+the Conceit—But then, Sir <hi>Amorous,</hi> will you be conſtant?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir <hi>Am.</hi>
+                     </speaker>
+                     <p>As your own Charms, which can never admit of a Decay.</p>
+                  </sp>
+                  <sp>
+                     <speaker>L. <hi>Y. L.</hi>
+                     </speaker>
+                     <p>Indeed, Sir <hi>Amorous,</hi> I have Compaſſion upon
+your Suffer<g ref="char:EOLhyphen"/>ings, and a juſt Reſentment of <hi>Mr. Wilmore</hi>'s
+Ingratitude: Therefore, <hi>Sir Amorous</hi>—but Lord! what was I going
+to ſay?—Jeſu!— will not you think me quickly won?—But
+indeed, my Charity to you is the chief Inducement; therefore to morrow, <hi>Sir
+Amorous,</hi> if you pleaſe—</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir <hi>Am.</hi>
+                     </speaker>
+                     <p>To morrow will not prevent Mr. <hi>Wilmore:</hi> Give me
+leave to declare my Happineſs, and to hope you will immediately confirm it
+within.</p>
+                  </sp>
+                  <sp>
+                     <speaker>L. <hi>Y. L.</hi>
+                     </speaker>
+                     <p>Lard, Sir <hi>Amorous,</hi> you overcome me every way; I
+leave it to your Diſcretion.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir <hi>Ruſ.</hi>
+                     </speaker>
+                     <p>Before <hi>George,</hi> not I. Good Mr. Son, no coguing nor
+diſ<g ref="char:EOLhyphen"/>ſembling with me: I love the Lady my ſelf, and have her I will, or
+ſome ſhall ſmart for it. My Lady <hi>Young Love,</hi> here's Felony,
+Conſpi<g ref="char:EOLhyphen"/>racy, and Treaſon againſt you; they would cheat me of my Wife, and
+you of your Husband.</p>
+                  </sp>
+                  <sp>
+                     <speaker>L. <hi>Y. L.</hi>
+                     </speaker>
+                     <p>That they will hardly be able to do; I have made my Choice,
+Sir <hi>Amorous</hi> can tell you.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir <hi>Ruſ.</hi>
+                     </speaker>
+                     <p>Hey day! Here's fine juggling indeed! Before
+<hi>George,</hi> I don't underſtand theſe <hi>London</hi> Contrivances.
+Shall I have your Daughter?</p>
+                  </sp>
+                  <sp>
+                     <speaker>L. <hi>Y. L.</hi>
+                     </speaker>
+                     <p>Sir <hi>Amorous,</hi> you rule me. <hi>Marina,</hi> I have
+too long, won by <hi>Bellaria</hi>'s Pretences, deny'd you the Affection of a
+Mother; but I'll make amends for all, and leave you the Liberty of your
+Choice.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir <hi>Ruſ.</hi>
+                     </speaker>
+                     <p>Nay then, before <hi>George,</hi> 'tis ſtill well
+enough— Give me thy Hand, ſweet Miſtris, 'tis a Match, Bedad.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mar.</speaker>
+                     <p>I am afraid, Sir, you'll find me good for little, but to
+bring the Addition of Jealouſie to the reſt of your Diſtempers.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir <hi>Ruſ.</hi>
+                     </speaker>
+                     <p>That is in plain Engliſh, Madam, that you wou'd make me a
+Cuckold—Wou'd you ſo?—Nay, like enough Bedad— Your Eyes
+have a plaguy Lear that way—Hey! 
+<stage>[calls within there]</stage> Bid
+<hi>Ralph</hi> ſaddle the Horſes, and bring my Boots; I'll not ſtay to
+ſee the end on't.</p>
+                  </sp>
+                  <stage>
+                     <hi>Exit Sir</hi> Ruſ.</stage>
+                  <sp>
+                     <speaker>Wild.</speaker>
+                     <p>No matter, let him go; as I take it, he has Sign'd.
+<hi>Wilmore,</hi> thou haſt nothing to do now, but to make thy Claim.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wil.</speaker>
+                     <p>I have ſo true a Senſe of my Villany to this Lady, that
+I dare not addreſs for Pardon, much more the unvaluable Bleſſing of her
+Daughter.</p>
+                  </sp>
+                  <sp>
+                     <speaker>L. <hi>Y. L.</hi>
+                     </speaker>
+                     <p>Sir <hi>Amorous</hi> has prevail'd for you, Sir. I forgive
+you, and have left <hi>Marina</hi> the Liberty of her Choice. But might I
+perſwade her, it ſhou'd not be <hi>Belira</hi>'s Lover, he has too many
+Faults.</p>
+                  </sp>
+                  <pb n="39" facs="tcp:51767:26"/>
+                  <sp>
+                     <speaker>Mar.</speaker>
+                     <p>I'll take them all upon my ſelf; and if your Ladyſhip
+would conſent, I ſhould not think my ſelf unhappy with Mr.
+<hi>Wilmore.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Wild.</speaker>
+                     <p>'Twill be generous, like your ſelf, Madam; and ſhew the
+Town, the little Concern you have for Mr. <hi>Wilmore.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir <hi>Am.</hi>
+                     </speaker>
+                     <p>Let me expire, Madam, if I can ceaſe my Intreaties.</p>
+                  </sp>
+                  <sp>
+                     <speaker>L. <hi>Y. L.</hi>
+                     </speaker>
+                     <p>You command me, Sir <hi>Amorous.</hi> Take her, Mr.
+<hi>Wilmore;</hi> and if poſſible, make amends for your Faults to me.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wil.</speaker>
+                     <p>This Goodneſs confounds me more—My whole Life
+ſhall be one conſtant Study to deſerve your Generoſity, and
+<hi>Marina</hi>'s Kind<g ref="char:EOLhyphen"/>neſs.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wild.</speaker>
+                     <p>Why ſo? matters are brought to Perfection. I find I am a
+Maſter in the Art. But, Begad, Pimping here, I have ruin'd my own Affairs
+with <hi>Orinda.</hi> Will ſhe not be at the Wedding?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mar.</speaker>
+                     <p>She keeps her Bed very ill, and has ſent an Excuſe; but
+I be<g ref="char:EOLhyphen"/>lieve, <hi>Belira</hi>'s Abſence will be the beſt Spell to draw her
+thence.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wild.</speaker>
+                     <p>That ſhall be my buſineſs, after the Chaplain has done
+his: I'll viſit, and perſwade her to come and wiſh you Joy.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wil.</speaker>
+                     <p>I am impatient till you have the occaſion. Sir
+<hi>Amorous,</hi> lead the way with your Bride.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wild.</speaker>
+                     <p>I think Fortune has not one other Trick to diſappoint you
+with; but 'tis beſt to take her when ſhe's obliging, for ſuch all People
+that are going to be married think her.</p>
+                  </sp>
+                  <lg>
+                     <l>But Time will ſhew the Cheat, and you ſhall find</l>
+                     <l>The Goddeſs is as fickle as ſhe's kind.</l>
+                  </lg>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:51767:27"/>
+            <p>
+               <hi>HAles</hi>'s Contemplations in three Parts, the third Part
+never before Printed; to which is added his Life, by <hi>Gilbert</hi> Lord
+Biſhop of <hi>Sarum.</hi>
+            </p>
+            <p>The whole Works of that Excellent Practical Phyſitian, Dr.
+<hi>Thomas Sydenham;</hi> wherein, not on<g ref="char:EOLhyphen"/>ly the Hiſtory and Cure of Acute
+Diſeaſes are Treated of, after a new and Accurate Method, but alſo the
+ſhorteſt and ſafeſt way of Curing moſt <hi>Chronical</hi>
+Diſeaſes. Tranſlated from the Original Latin; by <hi>John Pechey,</hi> at
+the Colledge of Phyſi<g ref="char:EOLhyphen"/>tians.</p>
+            <p>Mrs. <hi>Behns</hi> Novels, are this day Publiſhed.</p>
+            <p>All three are Sold by <hi>R. Wellington</hi> at the <hi>Lute</hi>
+in St. <hi>Paul</hi>'s Church-yard.</p>
+         </div>
+         <div type="publishers_advertisement">
+            <p>THE Artificial <hi>Clock-maker.</hi> A Treatiſe of Watch, and
+Clock-work: Wherein the Art of Calculating Numbers for moſt ſorts of
+Movements, is explained to the capacity of the Un<g ref="char:EOLhyphen"/>learned. Alſo the Hiſtory
+of Clock-work, both Ancient and Modern. With other uſeful matters never
+before Publiſhed. By <hi>W. D.</hi> M. A. Printed for <hi>James Knapton</hi>
+at the <hi>Crown</hi> in St. <hi>Paul</hi>'s Church-Yard, 1696.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
